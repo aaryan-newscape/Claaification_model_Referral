@@ -1,0 +1,1001 @@
+Client State,Type of Service,Assigned Office Location,Payor Organization,ZIP Code,Referral Type,Contract Rate,Billing Method
+Virginia,Physical Therapy,Pennsylvania,Private Health Insurance,29247,Bronze,147.2135989,Per Hour
+South Carolina,Hospital Care,North Carolina,Employer-sponsored,29248,Bronze,290,Per Day
+Delaware,Physical Therapy,Indiana,Catastrophic Health Insurance,29249,Silver,126.5780585,Per Hour
+Hawaii,Nutritional Counseling,Maryland,Long-term Care Insurance,29250,Silver,106.4403373,Per Hour
+Connecticut,Rehabilitation Services,Kansas,Short-term Health Insurance,29251,Gold,58.23706794,Per Hour
+California,Diabetes Care,Maryland,Private Health Insurance,29252,Silver,50,Per Visit
+Colorado,Physical Therapy,Nebraska,Managed Care Plans,29253,Gold,98.82403726,Per Hour
+Delaware,Cardiac Care,New Hampshire,Medicare Supplement Insurance (Medigap),29254,Silver,139.5191252,Per Hour
+Minnesota,Physical Therapy,Washington,Medicare Supplement Insurance (Medigap),29255,Silver,145.7479696,Per Hour
+New Hampshire,Geriatric Care,Virginia,Medicare,29256,Gold,83.23165653,Per Hour
+Kansas,Skilled Nursing,Vermont,Medicaid,29257,Bronze,41.57859915,Per Hour
+West Virginia,Hospital Care,Massachusetts,Health Maintenance Organization (HMO),29258,Silver,290,Per Day
+Georgia,Chronic Disease Management,New Hampshire,Exclusive Provider Organization (EPO),29259,Gold,33.32143386,Per Hour
+Massachusetts,Clinic Visit,Pennsylvania,Health Maintenance Organization (HMO),29260,Bronze,176,Per Visit
+Ohio,Physical Therapy,Minnesota,Medicare,29261,Bronze,139.6392842,Per Hour
+Minnesota,Nutritional Counseling,New Mexico,Preferred Provider Organization (PPO),29262,Silver,116.4646544,Per Hour
+Maine,Hospital Care,Kansas,Medicare Supplement Insurance (Medigap),29263,Bronze,290,Per Day
+Maryland,Skilled Nursing,Pennsylvania,Indemnity Health Insurance,29264,Silver,48.03925055,Per Hour
+New Mexico,Palliative Care,Florida,Catastrophic Health Insurance,29265,Gold,26.91601415,Per Hour
+California,Speech Therapy,Maine,Medicare Supplement Insurance (Medigap),29266,Bronze,146.1133858,Per Hour
+Pennsylvania,Wound Care,Rhode Island,Point of Service (POS),29267,Gold,44.79672095,Per Hour
+South Carolina,Cardiac Care,Ohio,Exclusive Provider Organization (EPO),29268,Bronze,116.6060319,Per Hour
+Indiana,Physical Therapy,Vermont,Managed Care Plans,29269,Bronze,101.6001096,Per Hour
+Hawaii,Wound Care,Ohio,Veterans Health Administration,29270,Silver,25.99153613,Per Hour
+Rhode Island,Palliative Care,Oregon,Exclusive Provider Organization (EPO),29271,Silver,25.69807346,Per Hour
+Ohio,Cardiac Care,Indiana,Medicaid,29272,Bronze,110.4350244,Per Hour
+New Mexico,Chronic Disease Management,Wisconsin,Medicare Supplement Insurance (Medigap),29273,Bronze,40.30913877,Per Hour
+Delaware,Rehabilitation Services,New Mexico,Medicare,29274,Gold,90.29467951,Per Hour
+South Carolina,Wound Care,New Jersey,Indemnity Health Insurance,29275,Gold,40.88140457,Per Hour
+Nevada,Hospice Care,New Jersey,Medicaid,29276,Gold,200,Per Day
+New Hampshire,Physical Therapy,Oregon,Private Health Insurance,29277,Bronze,75.27305148,Per Hour
+Nebraska,Home Care,Oregon,Preferred Provider Organization (PPO),29278,Bronze,20.64791267,Per Hour
+Oregon,Hospital Care,Iowa,Children's Health Insurance Program (CHIP),29279,Bronze,290,Per Day
+Indiana,Physical Therapy,Oregon,Tricare,29280,Silver,106.4999887,Per Hour
+Nebraska,Respiratory Therapy,Connecticut,Employer-sponsored,29281,Bronze,92.29318392,Per Hour
+South Carolina,Skilled Nursing,Texas,Exclusive Provider Organization (EPO),29282,Bronze,46.43412831,Per Hour
+New Jersey,Diabetes Care,New York,Exclusive Provider Organization (EPO),29283,Silver,50,Per Visit
+Missouri,Respiratory Therapy,Vermont,Employer-sponsored,29284,Silver,71.54573892,Per Hour
+Delaware,Hospital Care,New Hampshire,Long-term Care Insurance,29285,Bronze,290,Per Day
+Minnesota,Chronic Disease Management,New Mexico,Commercial,29286,Silver,31.33510129,Per Hour
+New Hampshire,Hospice Care,New Hampshire,Indemnity Health Insurance,29287,Gold,200,Per Day
+Georgia,Occupational Therapy,Massachusetts,Point of Service (POS),29288,Bronze,80.18258115,Per Hour
+Pennsylvania,Clinic Visit,Georgia,Employer-sponsored,29289,Gold,176,Per Visit
+Nevada,Diabetes Care,Maine,Medicare,29290,Bronze,50,Per Visit
+Washington,Clinic Visit,Virginia,Tricare,91705,Bronze,176,Per Visit
+Vermont,Diabetes Care,Kentucky,Medicare Supplement Insurance (Medigap),83415,Bronze,50,Per Visit
+Delaware,Skilled Nursing,Kentucky,High-Deductible Health Plan (HDHP),42053,Gold,30.88635005,Per Hour
+Virginia,Respiratory Therapy,Rhode Island,High-Deductible Health Plan (HDHP),63685,Gold,95.21814323,Per Hour
+Hawaii,Clinic Visit,Kentucky,Children's Health Insurance Program (CHIP),38242,Silver,176,Per Visit
+Maine,Palliative Care,West Virginia,Catastrophic Health Insurance,65151,Gold,27.42089967,Per Hour
+Nevada,Speech Therapy,Washington,High-Deductible Health Plan (HDHP),6060,Gold,125.1640398,Per Hour
+Colorado,Hospice Care,North Carolina,Managed Care Plans,52742,Silver,200,Per Day
+Arizona,Physical Therapy,Delaware,Medicaid,10407,Silver,97.73449029,Per Hour
+Connecticut,Pediatric Care,Oregon,Catastrophic Health Insurance,50297,Bronze,233.9236421,Per Hour
+Pennsylvania,Geriatric Care,Indiana,Short-term Health Insurance,10746,Silver,129.8898821,Per Hour
+North Carolina,Chronic Disease Management,Florida,Managed Care Plans,88635,Gold,26.22206942,Per Hour
+New Jersey,Nutritional Counseling,Minnesota,Medicare Supplement Insurance (Medigap),10241,Gold,142.7673213,Per Hour
+Missouri,Occupational Therapy,Florida,Commercial,93486,Silver,126.8529593,Per Hour
+New Mexico,Mental Health Services,Iowa,Medicaid,3336,Silver,265.9666835,Per Hour
+South Carolina,Nutritional Counseling,Indiana,Preferred Provider Organization (PPO),19016,Silver,76.17051107,Per Hour
+Maryland,Cardiac Care,New Hampshire,Short-term Health Insurance,7947,Gold,127.6747346,Per Hour
+Georgia,Skilled Nursing,Georgia,Preferred Provider Organization (PPO),89753,Silver,48.03287497,Per Hour
+Wisconsin,Palliative Care,Iowa,Indemnity Health Insurance,21186,Gold,25.15997032,Per Hour
+New Hampshire,Physical Therapy,Nebraska,Managed Care Plans,40121,Gold,130.1586708,Per Hour
+Colorado,Rehabilitation Services,Rhode Island,Employer-sponsored,88666,Silver,88.11508559,Per Hour
+Massachusetts,Geriatric Care,New Mexico,Medicare Advantage,11254,Gold,149.6892166,Per Hour
+Pennsylvania,Cardiac Care,South Carolina,Exclusive Provider Organization (EPO),40637,Silver,88.7637674,Per Hour
+Vermont,Clinic Visit,Connecticut,Children's Health Insurance Program (CHIP),48807,Silver,176,Per Visit
+Oklahoma,Clinic Visit,Wisconsin,Point of Service (POS),94994,Bronze,176,Per Visit
+Massachusetts,Palliative Care,Massachusetts,Managed Care Plans,83275,Silver,25.3203427,Per Hour
+New Mexico,Home Care,Maine,Health Maintenance Organization (HMO),40880,Gold,21.07438657,Per Hour
+Oregon,Hospital Care,Hawaii,Preferred Provider Organization (PPO),91538,Gold,290,Per Day
+Delaware,Occupational Therapy,Vermont,Medicare,61415,Silver,84.18451987,Per Hour
+California,Telehealth,Pennsylvania,Commercial,56815,Bronze,43.24693443,Per Visit
+Washington,Hospital Care,North Carolina,Managed Care Plans,56523,Gold,290,Per Day
+South Carolina,Diabetes Care,New Jersey,Employer-sponsored,4015,Bronze,50,Per Visit
+Tennessee,Pediatric Care,Virginia,Short-term Health Insurance,93099,Silver,230.2296812,Per Hour
+Georgia,Cardiac Care,Georgia,Veterans Health Administration,21659,Silver,89.34104642,Per Hour
+Nevada,Occupational Therapy,Rhode Island,Long-term Care Insurance,87015,Silver,87.09461259,Per Hour
+Oklahoma,Mental Health Services,Iowa,Private Health Insurance,85047,Silver,157.5870447,Per Hour
+Oregon,Cardiac Care,Indiana,Catastrophic Health Insurance,77654,Silver,86.65510702,Per Hour
+Arizona,Physical Therapy,Colorado,Preferred Provider Organization (PPO),5026,Gold,106.8073976,Per Hour
+Texas,Geriatric Care,Vermont,Veterans Health Administration,49048,Gold,110.8927175,Per Hour
+Vermont,Physical Therapy,Maryland,Commercial,26481,Bronze,136.6331443,Per Hour
+Iowa,Clinic Visit,New Mexico,Point of Service (POS),55267,Bronze,176,Per Visit
+Virginia,Wound Care,Oklahoma,High-Deductible Health Plan (HDHP),48065,Bronze,25.22070796,Per Hour
+Georgia,Speech Therapy,Connecticut,Medicare Supplement Insurance (Medigap),8501,Bronze,149.4504293,Per Hour
+Ohio,Palliative Care,Pennsylvania,Employer-sponsored,61933,Bronze,27.55224695,Per Hour
+New York,Pediatric Care,North Carolina,Long-term Care Insurance,78404,Silver,174.3653179,Per Hour
+Massachusetts,Clinic Visit,North Carolina,Medicaid,3841,Bronze,176,Per Visit
+Tennessee,Skilled Nursing,Texas,Exclusive Provider Organization (EPO),38893,Bronze,40.36148999,Per Hour
+New York,Palliative Care,Indiana,Commercial,32678,Gold,26.14149218,Per Hour
+North Carolina,Clinic Visit,Washington,Medicare Supplement Insurance (Medigap),16899,Gold,176,Per Visit
+New Jersey,Palliative Care,Maryland,Veterans Health Administration,56569,Silver,26.97028584,Per Hour
+New Jersey,Hospice Care,Colorado,Short-term Health Insurance,8176,Bronze,200,Per Day
+Hawaii,Clinic Visit,California,Exclusive Provider Organization (EPO),62968,Gold,176,Per Visit
+Georgia,Palliative Care,North Carolina,Indemnity Health Insurance,85967,Silver,27.61573126,Per Hour
+Wisconsin,Telehealth,Minnesota,Catastrophic Health Insurance,91137,Silver,48.92756242,Per Visit
+Delaware,Home Care,Massachusetts,Tricare,35175,Bronze,18.88351174,Per Hour
+Missouri,Diabetes Care,Maryland,Commercial,87078,Bronze,50,Per Visit
+New Jersey,Occupational Therapy,Kansas,Indemnity Health Insurance,23154,Silver,129.5677447,Per Hour
+Minnesota,Rehabilitation Services,Indiana,Private Health Insurance,79291,Silver,89.84979979,Per Hour
+Iowa,Pediatric Care,Iowa,Indemnity Health Insurance,36831,Gold,294.128485,Per Hour
+Kentucky,Occupational Therapy,Connecticut,Exclusive Provider Organization (EPO),95425,Silver,91.76847457,Per Hour
+Wisconsin,Telehealth,Texas,Health Maintenance Organization (HMO),18199,Bronze,41.8486289,Per Visit
+Oregon,Telehealth,Hawaii,Point of Service (POS),66560,Silver,45.03248107,Per Visit
+Vermont,Mental Health Services,Indiana,Medicare,37621,Silver,151.9119037,Per Hour
+Oklahoma,Wound Care,Oregon,Medicare Advantage,94818,Silver,32.83780498,Per Hour
+Georgia,Rehabilitation Services,Hawaii,Health Maintenance Organization (HMO),68703,Silver,87.15906348,Per Hour
+Ohio,Mental Health Services,Rhode Island,Medicaid,57044,Silver,149.1450443,Per Hour
+Colorado,Rehabilitation Services,Vermont,Medicaid,97084,Gold,53.01501776,Per Hour
+Kansas,Home Care,Rhode Island,Exclusive Provider Organization (EPO),89506,Gold,22.82765412,Per Hour
+Kentucky,Chronic Disease Management,Iowa,Employer-sponsored,74584,Silver,42.34614578,Per Hour
+Maine,Telehealth,Arizona,Medicare Supplement Insurance (Medigap),22854,Gold,44.23843767,Per Visit
+Hawaii,Geriatric Care,Oregon,Veterans Health Administration,46023,Silver,113.6378289,Per Hour
+Minnesota,Clinic Visit,Virginia,Long-term Care Insurance,15378,Silver,176,Per Visit
+Tennessee,Palliative Care,Tennessee,Health Maintenance Organization (HMO),26378,Silver,25.38353698,Per Hour
+New Mexico,Telehealth,Virginia,Children's Health Insurance Program (CHIP),67196,Silver,47.45545343,Per Visit
+Kansas,Geriatric Care,Virginia,High-Deductible Health Plan (HDHP),98157,Silver,99.8555417,Per Hour
+Minnesota,Telehealth,New York,High-Deductible Health Plan (HDHP),62165,Bronze,42.24404825,Per Visit
+Wisconsin,Rehabilitation Services,New York,Medicaid,56177,Bronze,86.04204593,Per Hour
+New Jersey,Nutritional Counseling,Kansas,Indemnity Health Insurance,20314,Silver,97.54987498,Per Hour
+Washington,Home Care,Ohio,Commercial,76183,Bronze,19.87642864,Per Hour
+Vermont,Pediatric Care,New Mexico,Commercial,945,Gold,191.5479364,Per Hour
+New Jersey,Palliative Care,Kentucky,Medicare Supplement Insurance (Medigap),48273,Bronze,27.84794471,Per Hour
+Florida,Rehabilitation Services,Arizona,Medicare Supplement Insurance (Medigap),99051,Silver,53.22534074,Per Hour
+Massachusetts,Cardiac Care,Maryland,Point of Service (POS),73384,Gold,110.4282193,Per Hour
+Colorado,Pediatric Care,Minnesota,Managed Care Plans,12608,Silver,271.6147376,Per Hour
+Arizona,Cardiac Care,Vermont,Medicare Advantage,15685,Silver,135.0798427,Per Hour
+Massachusetts,Occupational Therapy,Ohio,Managed Care Plans,51318,Gold,117.1968561,Per Hour
+North Carolina,Skilled Nursing,Washington,Medicare Supplement Insurance (Medigap),50219,Gold,37.84341958,Per Hour
+Pennsylvania,Diabetes Care,Missouri,High-Deductible Health Plan (HDHP),90728,Bronze,50,Per Visit
+Florida,Chronic Disease Management,Kentucky,Long-term Care Insurance,77306,Gold,49.41444158,Per Hour
+Florida,Telehealth,Ohio,Tricare,23986,Gold,43.49350205,Per Visit
+New Mexico,Chronic Disease Management,Indiana,Catastrophic Health Insurance,29268,Gold,48.32379519,Per Hour
+Nebraska,Rehabilitation Services,Rhode Island,Preferred Provider Organization (PPO),97415,Gold,72.09835612,Per Hour
+Oregon,Nutritional Counseling,Florida,Long-term Care Insurance,76387,Silver,90.55331783,Per Hour
+Pennsylvania,Skilled Nursing,Pennsylvania,Preferred Provider Organization (PPO),69922,Bronze,43.49639658,Per Hour
+Indiana,Occupational Therapy,West Virginia,Employer-sponsored,98357,Silver,110.0039993,Per Hour
+New York,Clinic Visit,Iowa,Short-term Health Insurance,21053,Gold,176,Per Visit
+Wisconsin,Rehabilitation Services,Virginia,Exclusive Provider Organization (EPO),43966,Gold,91.62725499,Per Hour
+Rhode Island,Speech Therapy,Florida,Short-term Health Insurance,5072,Silver,115.8506591,Per Hour
+Tennessee,Physical Therapy,Maryland,Medicare Advantage,99615,Silver,76.26438284,Per Hour
+California,Mental Health Services,Maryland,Medicaid,97819,Gold,222.7872207,Per Hour
+Indiana,Home Care,New Hampshire,Medicaid,5593,Bronze,18.92158214,Per Hour
+Iowa,Cardiac Care,Vermont,Catastrophic Health Insurance,9198,Bronze,141.575097,Per Hour
+Massachusetts,Skilled Nursing,Oklahoma,Commercial,83142,Silver,32.39992312,Per Hour
+Maryland,Mental Health Services,Virginia,Tricare,73590,Gold,178.1612935,Per Hour
+Texas,Skilled Nursing,New York,High-Deductible Health Plan (HDHP),74496,Silver,36.99342885,Per Hour
+West Virginia,Telehealth,South Carolina,Short-term Health Insurance,97746,Gold,49.49023377,Per Visit
+Wisconsin,Clinic Visit,New York,Short-term Health Insurance,47677,Silver,176,Per Visit
+Connecticut,Diabetes Care,Arizona,Veterans Health Administration,83144,Bronze,50,Per Visit
+Colorado,Telehealth,Iowa,Medicare Supplement Insurance (Medigap),9161,Bronze,47.47029737,Per Visit
+Wisconsin,Pediatric Care,Ohio,Medicare Advantage,31201,Bronze,284.94856,Per Hour
+Washington,Physical Therapy,Texas,Employer-sponsored,83234,Bronze,120.1255784,Per Hour
+Indiana,Cardiac Care,Kansas,Point of Service (POS),36996,Silver,134.7432038,Per Hour
+Missouri,Physical Therapy,Connecticut,Medicare,41548,Bronze,84.79707274,Per Hour
+New Jersey,Palliative Care,Nevada,Medicare Supplement Insurance (Medigap),51942,Silver,27.34552615,Per Hour
+Kentucky,Telehealth,Oregon,Point of Service (POS),97595,Bronze,43.02908938,Per Visit
+Florida,Wound Care,California,High-Deductible Health Plan (HDHP),90165,Bronze,31.34075773,Per Hour
+New York,Skilled Nursing,Pennsylvania,Tricare,19627,Silver,42.92834461,Per Hour
+Georgia,Cardiac Care,Washington,Medicare Advantage,55456,Gold,137.2068609,Per Hour
+Oregon,Clinic Visit,New Jersey,Employer-sponsored,33673,Bronze,176,Per Visit
+Georgia,Nutritional Counseling,Virginia,Veterans Health Administration,19201,Silver,118.1180029,Per Hour
+Tennessee,Home Care,Connecticut,Veterans Health Administration,17966,Gold,20.85350364,Per Hour
+Iowa,Hospital Care,Georgia,Long-term Care Insurance,56532,Gold,290,Per Day
+New Jersey,Mental Health Services,Connecticut,Employer-sponsored,98891,Gold,215.0354237,Per Hour
+Virginia,Chronic Disease Management,Ohio,Exclusive Provider Organization (EPO),69591,Bronze,43.95062724,Per Hour
+Florida,Respiratory Therapy,South Carolina,Employer-sponsored,28943,Gold,90.21936197,Per Hour
+West Virginia,Wound Care,California,Medicare Supplement Insurance (Medigap),54700,Silver,35.18195035,Per Hour
+Washington,Chronic Disease Management,Colorado,Commercial,97677,Silver,42.19443106,Per Hour
+New York,Skilled Nursing,Rhode Island,Veterans Health Administration,74411,Gold,25.44413495,Per Hour
+Delaware,Skilled Nursing,Washington,Indemnity Health Insurance,6355,Gold,36.25452892,Per Hour
+Maryland,Palliative Care,Texas,Tricare,22186,Silver,25.86510782,Per Hour
+Colorado,Skilled Nursing,South Carolina,Commercial,46623,Bronze,49.14321431,Per Hour
+Nebraska,Skilled Nursing,Iowa,Managed Care Plans,21477,Gold,30.48075677,Per Hour
+Connecticut,Mental Health Services,Oklahoma,Commercial,7351,Bronze,152.9084232,Per Hour
+Kansas,Home Care,California,Medicaid,46604,Silver,26.70507699,Per Hour
+Rhode Island,Hospice Care,Vermont,Children's Health Insurance Program (CHIP),85602,Silver,200,Per Day
+Vermont,Wound Care,Oregon,Tricare,59190,Silver,47.22846603,Per Hour
+Oklahoma,Telehealth,Delaware,Indemnity Health Insurance,22266,Gold,46.90334749,Per Visit
+Colorado,Pediatric Care,New Mexico,Managed Care Plans,87528,Silver,189.6889098,Per Hour
+Georgia,Occupational Therapy,Oregon,Commercial,20527,Silver,134.9471923,Per Hour
+Nebraska,Respiratory Therapy,South Carolina,High-Deductible Health Plan (HDHP),81459,Silver,98.62172241,Per Hour
+Iowa,Chronic Disease Management,Wisconsin,Exclusive Provider Organization (EPO),51373,Gold,47.38221713,Per Hour
+Tennessee,Mental Health Services,Vermont,Long-term Care Insurance,34626,Bronze,148.3633668,Per Hour
+Oklahoma,Home Care,Texas,Private Health Insurance,2260,Gold,25.77974437,Per Hour
+Massachusetts,Home Care,Vermont,Catastrophic Health Insurance,35437,Bronze,26.17344396,Per Hour
+Oregon,Chronic Disease Management,New Jersey,Medicare,20251,Silver,48.5651946,Per Hour
+Wisconsin,Wound Care,Wisconsin,Medicare,21312,Silver,46.07000641,Per Hour
+Tennessee,Hospital Care,Nevada,Private Health Insurance,19775,Gold,290,Per Day
+Oregon,Clinic Visit,Minnesota,Medicaid,85676,Gold,176,Per Visit
+Kentucky,Cardiac Care,Connecticut,Point of Service (POS),17427,Bronze,142.7115224,Per Hour
+Georgia,Clinic Visit,Iowa,Employer-sponsored,78790,Bronze,176,Per Visit
+Minnesota,Hospital Care,Pennsylvania,Private Health Insurance,71753,Gold,290,Per Day
+West Virginia,Speech Therapy,Missouri,Indemnity Health Insurance,85309,Bronze,90.53746789,Per Hour
+Minnesota,Hospital Care,South Carolina,Veterans Health Administration,10674,Gold,290,Per Day
+West Virginia,Home Care,Wisconsin,Children's Health Insurance Program (CHIP),32609,Silver,21.90462279,Per Hour
+Rhode Island,Mental Health Services,Georgia,Health Maintenance Organization (HMO),58915,Bronze,277.4978577,Per Hour
+Kansas,Pediatric Care,Vermont,Health Maintenance Organization (HMO),80920,Gold,228.7236531,Per Hour
+Arizona,Speech Therapy,Nevada,Children's Health Insurance Program (CHIP),34013,Silver,119.2896657,Per Hour
+Minnesota,Cardiac Care,Missouri,Preferred Provider Organization (PPO),70603,Gold,87.82617771,Per Hour
+Tennessee,Diabetes Care,Tennessee,Employer-sponsored,45791,Gold,50,Per Visit
+Rhode Island,Wound Care,Connecticut,Health Maintenance Organization (HMO),17835,Silver,32.77808718,Per Hour
+Ohio,Rehabilitation Services,South Carolina,Private Health Insurance,9779,Silver,85.44172271,Per Hour
+North Carolina,Clinic Visit,Pennsylvania,Preferred Provider Organization (PPO),65127,Silver,176,Per Visit
+Nevada,Wound Care,West Virginia,Short-term Health Insurance,96926,Silver,46.43991627,Per Hour
+Connecticut,Hospice Care,Maine,Indemnity Health Insurance,50705,Silver,200,Per Day
+Massachusetts,Pediatric Care,Florida,Medicare Supplement Insurance (Medigap),13924,Bronze,225.1592681,Per Hour
+Oregon,Mental Health Services,New Jersey,Health Maintenance Organization (HMO),74309,Bronze,258.0525048,Per Hour
+West Virginia,Telehealth,Iowa,Tricare,61251,Silver,43.66665772,Per Visit
+Nebraska,Geriatric Care,Tennessee,Veterans Health Administration,82365,Bronze,125.2205072,Per Hour
+Rhode Island,Speech Therapy,Missouri,Medicare,17144,Gold,88.90900565,Per Hour
+Missouri,Chronic Disease Management,Hawaii,Catastrophic Health Insurance,24981,Silver,31.38110125,Per Hour
+South Carolina,Speech Therapy,New Jersey,Short-term Health Insurance,30394,Silver,140.648732,Per Hour
+Massachusetts,Palliative Care,North Carolina,Medicare Supplement Insurance (Medigap),86704,Gold,26.51579416,Per Hour
+Hawaii,Occupational Therapy,Rhode Island,Employer-sponsored,6394,Bronze,102.4988461,Per Hour
+Wisconsin,Clinic Visit,Ohio,Employer-sponsored,32514,Silver,176,Per Visit
+Texas,Pediatric Care,Missouri,Exclusive Provider Organization (EPO),42543,Bronze,258.2145655,Per Hour
+Georgia,Rehabilitation Services,West Virginia,Private Health Insurance,58653,Gold,62.71062118,Per Hour
+Vermont,Rehabilitation Services,Vermont,Private Health Insurance,19944,Bronze,70.31557676,Per Hour
+Minnesota,Diabetes Care,Hawaii,Tricare,86526,Gold,50,Per Visit
+Colorado,Hospice Care,North Carolina,Short-term Health Insurance,59969,Gold,200,Per Day
+California,Speech Therapy,Georgia,Medicare,35405,Gold,133.697854,Per Hour
+New York,Respiratory Therapy,Georgia,High-Deductible Health Plan (HDHP),2436,Gold,70.97946955,Per Hour
+Georgia,Mental Health Services,Minnesota,Managed Care Plans,45276,Silver,162.6241048,Per Hour
+Hawaii,Nutritional Counseling,Hawaii,Health Maintenance Organization (HMO),88932,Gold,147.5873724,Per Hour
+Tennessee,Pediatric Care,Wisconsin,Veterans Health Administration,84063,Silver,253.0752716,Per Hour
+Connecticut,Physical Therapy,Virginia,Managed Care Plans,5493,Silver,146.3070752,Per Hour
+West Virginia,Home Care,New Jersey,Health Maintenance Organization (HMO),17266,Silver,19.09757601,Per Hour
+Arizona,Physical Therapy,Ohio,Indemnity Health Insurance,54459,Silver,126.8517156,Per Hour
+Connecticut,Hospital Care,Rhode Island,Tricare,80474,Bronze,290,Per Day
+Kansas,Mental Health Services,North Carolina,Private Health Insurance,20894,Silver,133.4927461,Per Hour
+Connecticut,Skilled Nursing,Connecticut,Short-term Health Insurance,14714,Gold,39.16902791,Per Hour
+Hawaii,Cardiac Care,Nebraska,Private Health Insurance,43961,Silver,99.49632015,Per Hour
+Connecticut,Clinic Visit,Pennsylvania,Exclusive Provider Organization (EPO),53971,Silver,176,Per Visit
+Florida,Clinic Visit,Minnesota,Point of Service (POS),30753,Gold,176,Per Visit
+Virginia,Physical Therapy,New York,Commercial,38970,Bronze,80.4806966,Per Hour
+Florida,Wound Care,New York,Tricare,19466,Bronze,36.6980268,Per Hour
+North Carolina,Wound Care,Oregon,Medicare Supplement Insurance (Medigap),18683,Gold,40.36408152,Per Hour
+Oklahoma,Speech Therapy,South Carolina,Exclusive Provider Organization (EPO),99249,Bronze,82.07949149,Per Hour
+Maine,Hospice Care,Delaware,Commercial,36922,Gold,200,Per Day
+Iowa,Skilled Nursing,Colorado,Children's Health Insurance Program (CHIP),39501,Silver,38.5620066,Per Hour
+Delaware,Pediatric Care,Nevada,Catastrophic Health Insurance,64738,Gold,203.2749862,Per Hour
+Kansas,Occupational Therapy,New Mexico,Long-term Care Insurance,22330,Bronze,133.4457542,Per Hour
+Tennessee,Chronic Disease Management,Indiana,Point of Service (POS),65120,Gold,44.20369822,Per Hour
+Wisconsin,Cardiac Care,Ohio,Children's Health Insurance Program (CHIP),7808,Gold,118.0250841,Per Hour
+New Jersey,Occupational Therapy,Missouri,Exclusive Provider Organization (EPO),54056,Bronze,146.2164316,Per Hour
+Nebraska,Physical Therapy,Delaware,Long-term Care Insurance,8331,Bronze,82.67522243,Per Hour
+Pennsylvania,Palliative Care,Minnesota,Commercial,25941,Bronze,26.83899437,Per Hour
+New York,Cardiac Care,New Jersey,Long-term Care Insurance,8101,Silver,115.9065946,Per Hour
+New Hampshire,Skilled Nursing,South Carolina,High-Deductible Health Plan (HDHP),55513,Bronze,37.51069463,Per Hour
+Pennsylvania,Palliative Care,Florida,Commercial,95813,Gold,26.67734752,Per Hour
+Kentucky,Diabetes Care,Iowa,Medicare,31264,Bronze,50,Per Visit
+Kentucky,Wound Care,Indiana,Short-term Health Insurance,40254,Silver,26.83573836,Per Hour
+Kansas,Palliative Care,Colorado,Health Maintenance Organization (HMO),55372,Silver,27.34496407,Per Hour
+Florida,Cardiac Care,South Carolina,Private Health Insurance,43690,Gold,105.9859571,Per Hour
+Ohio,Hospital Care,Kansas,Medicaid,77211,Gold,290,Per Day
+Nebraska,Telehealth,Tennessee,Health Maintenance Organization (HMO),77435,Silver,49.96844647,Per Visit
+Florida,Cardiac Care,Massachusetts,Children's Health Insurance Program (CHIP),52378,Gold,103.1740986,Per Hour
+Delaware,Speech Therapy,Iowa,Employer-sponsored,31196,Silver,104.1444569,Per Hour
+Tennessee,Cardiac Care,Texas,Medicare Advantage,98617,Gold,91.42354191,Per Hour
+Rhode Island,Telehealth,Pennsylvania,Medicare Supplement Insurance (Medigap),68823,Gold,45.17220664,Per Visit
+Georgia,Respiratory Therapy,Washington,Health Maintenance Organization (HMO),97253,Silver,58.86505245,Per Hour
+Massachusetts,Respiratory Therapy,California,Health Maintenance Organization (HMO),69099,Bronze,84.84893584,Per Hour
+North Carolina,Telehealth,South Carolina,Employer-sponsored,15717,Gold,40.96697061,Per Visit
+Minnesota,Hospice Care,Nevada,High-Deductible Health Plan (HDHP),87207,Silver,200,Per Day
+Texas,Rehabilitation Services,California,Exclusive Provider Organization (EPO),41258,Gold,63.43298985,Per Hour
+Wisconsin,Occupational Therapy,Colorado,Veterans Health Administration,19868,Gold,145.3835,Per Hour
+Iowa,Clinic Visit,Virginia,Medicare Advantage,36883,Bronze,176,Per Visit
+Minnesota,Nutritional Counseling,Ohio,Point of Service (POS),98637,Silver,108.4965558,Per Hour
+Tennessee,Skilled Nursing,New Mexico,Medicare Advantage,12050,Gold,27.22243337,Per Hour
+Arizona,Nutritional Counseling,Ohio,Employer-sponsored,71047,Gold,124.8783324,Per Hour
+California,Cardiac Care,Indiana,Indemnity Health Insurance,68113,Bronze,134.0303085,Per Hour
+Massachusetts,Pediatric Care,Connecticut,Medicare,29170,Gold,286.0437368,Per Hour
+Oklahoma,Geriatric Care,Hawaii,Preferred Provider Organization (PPO),63290,Silver,113.8591831,Per Hour
+Pennsylvania,Cardiac Care,Maryland,Medicare,3228,Silver,83.84361837,Per Hour
+New Jersey,Pediatric Care,Wisconsin,Medicaid,35070,Silver,205.4890039,Per Hour
+New Jersey,Hospital Care,Minnesota,Employer-sponsored,80895,Gold,290,Per Day
+Ohio,Home Care,Maryland,Medicare,93646,Silver,24.8368796,Per Hour
+South Carolina,Physical Therapy,Nebraska,Tricare,79592,Silver,103.9330508,Per Hour
+North Carolina,Telehealth,Arizona,Medicare Advantage,46084,Silver,41.50702376,Per Visit
+Washington,Cardiac Care,North Carolina,Managed Care Plans,13007,Silver,82.19254677,Per Hour
+West Virginia,Nutritional Counseling,Wisconsin,Short-term Health Insurance,28757,Bronze,88.70030924,Per Hour
+Pennsylvania,Palliative Care,New Hampshire,Veterans Health Administration,68641,Silver,26.84060428,Per Hour
+Tennessee,Palliative Care,South Carolina,Medicaid,35128,Bronze,25.38169843,Per Hour
+California,Physical Therapy,Colorado,Exclusive Provider Organization (EPO),36356,Gold,81.92185558,Per Hour
+Oregon,Chronic Disease Management,Texas,Medicare Advantage,29086,Silver,26.4428378,Per Hour
+Ohio,Geriatric Care,Oklahoma,Point of Service (POS),62429,Gold,93.55363439,Per Hour
+Georgia,Clinic Visit,Indiana,Point of Service (POS),9687,Bronze,176,Per Visit
+Georgia,Nutritional Counseling,Missouri,Health Maintenance Organization (HMO),68045,Gold,106.2768436,Per Hour
+Rhode Island,Occupational Therapy,Vermont,High-Deductible Health Plan (HDHP),41186,Bronze,112.5890836,Per Hour
+Iowa,Speech Therapy,Hawaii,High-Deductible Health Plan (HDHP),48290,Silver,141.3000002,Per Hour
+New York,Respiratory Therapy,Minnesota,Medicare Supplement Insurance (Medigap),70259,Silver,53.66832512,Per Hour
+Missouri,Wound Care,North Carolina,Commercial,92359,Bronze,39.69403391,Per Hour
+Tennessee,Respiratory Therapy,Nebraska,High-Deductible Health Plan (HDHP),60462,Bronze,96.66507942,Per Hour
+Georgia,Hospice Care,Tennessee,Preferred Provider Organization (PPO),45079,Gold,200,Per Day
+Texas,Wound Care,Washington,Preferred Provider Organization (PPO),52088,Gold,41.46069971,Per Hour
+Rhode Island,Wound Care,Vermont,Managed Care Plans,3195,Bronze,40.01185009,Per Hour
+Delaware,Skilled Nursing,Colorado,Medicare Advantage,49194,Bronze,37.55674291,Per Hour
+Arizona,Rehabilitation Services,Vermont,Short-term Health Insurance,80296,Gold,85.00486631,Per Hour
+Florida,Nutritional Counseling,Oregon,Short-term Health Insurance,34994,Gold,134.5258712,Per Hour
+Oklahoma,Nutritional Counseling,Maryland,High-Deductible Health Plan (HDHP),2358,Gold,76.66261454,Per Hour
+New Jersey,Chronic Disease Management,Nebraska,Employer-sponsored,70936,Bronze,31.48037234,Per Hour
+New Hampshire,Pediatric Care,Georgia,Managed Care Plans,24988,Bronze,204.7024585,Per Hour
+Minnesota,Respiratory Therapy,Missouri,Medicare Advantage,1110,Bronze,68.45292554,Per Hour
+Connecticut,Diabetes Care,Kansas,High-Deductible Health Plan (HDHP),15988,Bronze,50,Per Visit
+Maine,Hospice Care,Pennsylvania,Medicaid,33402,Bronze,200,Per Day
+California,Hospice Care,Nebraska,Exclusive Provider Organization (EPO),42355,Gold,200,Per Day
+Delaware,Occupational Therapy,Florida,Private Health Insurance,71894,Bronze,89.10209469,Per Hour
+Minnesota,Diabetes Care,Connecticut,Preferred Provider Organization (PPO),34941,Silver,50,Per Visit
+Maine,Palliative Care,New York,Catastrophic Health Insurance,39135,Gold,25.03944346,Per Hour
+Maine,Mental Health Services,New Jersey,Commercial,8601,Bronze,172.1719461,Per Hour
+West Virginia,Mental Health Services,Connecticut,Medicare Supplement Insurance (Medigap),33108,Bronze,130.4197071,Per Hour
+Vermont,Nutritional Counseling,Maryland,Managed Care Plans,55525,Bronze,77.66570632,Per Hour
+Washington,Speech Therapy,Maryland,Short-term Health Insurance,95817,Bronze,125.211106,Per Hour
+New Jersey,Geriatric Care,New Jersey,Preferred Provider Organization (PPO),94957,Bronze,100.852782,Per Hour
+Maryland,Physical Therapy,Hawaii,Point of Service (POS),79292,Bronze,112.1331268,Per Hour
+Rhode Island,Palliative Care,Oregon,Medicare Advantage,12547,Bronze,27.36535319,Per Hour
+South Carolina,Occupational Therapy,New Mexico,Exclusive Provider Organization (EPO),37305,Gold,101.0474582,Per Hour
+North Carolina,Hospice Care,Rhode Island,Private Health Insurance,7019,Silver,200,Per Day
+Nebraska,Palliative Care,Indiana,Point of Service (POS),45641,Gold,27.51296828,Per Hour
+Florida,Respiratory Therapy,Missouri,High-Deductible Health Plan (HDHP),90774,Bronze,86.15444799,Per Hour
+Rhode Island,Mental Health Services,Florida,Exclusive Provider Organization (EPO),18793,Silver,209.262936,Per Hour
+Pennsylvania,Chronic Disease Management,Massachusetts,Catastrophic Health Insurance,29705,Gold,25.09816073,Per Hour
+Indiana,Geriatric Care,West Virginia,Health Maintenance Organization (HMO),30505,Gold,116.7968648,Per Hour
+Nevada,Pediatric Care,New Jersey,Medicaid,27408,Gold,152.1644907,Per Hour
+Vermont,Wound Care,Virginia,Exclusive Provider Organization (EPO),36409,Bronze,27.12856598,Per Hour
+Colorado,Palliative Care,Missouri,Point of Service (POS),7461,Silver,26.18162096,Per Hour
+Iowa,Chronic Disease Management,West Virginia,Private Health Insurance,99409,Bronze,46.41460281,Per Hour
+California,Rehabilitation Services,Indiana,Children's Health Insurance Program (CHIP),5660,Gold,82.79816819,Per Hour
+Colorado,Skilled Nursing,Vermont,Medicare Advantage,87229,Gold,47.28742735,Per Hour
+Nevada,Palliative Care,Georgia,Children's Health Insurance Program (CHIP),95408,Gold,25.31020811,Per Hour
+New Mexico,Rehabilitation Services,Iowa,Tricare,78998,Bronze,78.67564066,Per Hour
+Kansas,Skilled Nursing,Connecticut,Medicaid,86766,Silver,40.31674465,Per Hour
+Georgia,Occupational Therapy,Oregon,Short-term Health Insurance,16805,Silver,80.90133485,Per Hour
+South Carolina,Speech Therapy,Ohio,Medicare Advantage,31025,Silver,125.8285083,Per Hour
+Georgia,Telehealth,Minnesota,Short-term Health Insurance,71080,Bronze,41.85409835,Per Visit
+Hawaii,Skilled Nursing,Missouri,Catastrophic Health Insurance,66519,Bronze,49.44270109,Per Hour
+Nebraska,Occupational Therapy,New Jersey,Point of Service (POS),19766,Bronze,144.7497731,Per Hour
+Wisconsin,Hospital Care,Washington,Veterans Health Administration,863,Bronze,290,Per Day
+Arizona,Chronic Disease Management,Massachusetts,High-Deductible Health Plan (HDHP),55307,Gold,46.35177454,Per Hour
+Virginia,Nutritional Counseling,Tennessee,Veterans Health Administration,30495,Gold,136.7481581,Per Hour
+Delaware,Hospital Care,South Carolina,Exclusive Provider Organization (EPO),25963,Bronze,290,Per Day
+Iowa,Mental Health Services,Kansas,Short-term Health Insurance,19997,Bronze,198.465975,Per Hour
+New Hampshire,Chronic Disease Management,Hawaii,Medicaid,91297,Silver,38.55412799,Per Hour
+West Virginia,Nutritional Counseling,Vermont,Point of Service (POS),26948,Silver,99.59266704,Per Hour
+West Virginia,Hospital Care,New Mexico,Employer-sponsored,41285,Bronze,290,Per Day
+California,Geriatric Care,Vermont,Employer-sponsored,62546,Gold,112.1800952,Per Hour
+Rhode Island,Rehabilitation Services,North Carolina,Managed Care Plans,10712,Gold,93.4275043,Per Hour
+Iowa,Nutritional Counseling,Tennessee,Health Maintenance Organization (HMO),73531,Gold,134.3777378,Per Hour
+New Jersey,Pediatric Care,Vermont,Medicaid,80042,Bronze,273.9023528,Per Hour
+Washington,Hospital Care,Iowa,Private Health Insurance,51202,Bronze,290,Per Day
+West Virginia,Nutritional Counseling,New Hampshire,Short-term Health Insurance,3845,Bronze,126.4110869,Per Hour
+Georgia,Diabetes Care,Kentucky,Catastrophic Health Insurance,47114,Gold,50,Per Visit
+Kansas,Nutritional Counseling,Missouri,Medicare,18052,Bronze,76.65256789,Per Hour
+South Carolina,Respiratory Therapy,Arizona,Preferred Provider Organization (PPO),42020,Gold,95.99070082,Per Hour
+Kentucky,Rehabilitation Services,North Carolina,Medicare Supplement Insurance (Medigap),58517,Silver,84.46850713,Per Hour
+New Hampshire,Wound Care,Arizona,Indemnity Health Insurance,38199,Gold,43.34490514,Per Hour
+West Virginia,Home Care,New Mexico,Health Maintenance Organization (HMO),83942,Bronze,23.87842957,Per Hour
+Oklahoma,Geriatric Care,Colorado,Point of Service (POS),39809,Silver,96.30301385,Per Hour
+Vermont,Cardiac Care,New Jersey,Catastrophic Health Insurance,71425,Gold,109.9094697,Per Hour
+Nebraska,Skilled Nursing,Maryland,Medicare Supplement Insurance (Medigap),77012,Bronze,47.72338842,Per Hour
+Arizona,Geriatric Care,Georgia,Long-term Care Insurance,70156,Gold,87.13332166,Per Hour
+Rhode Island,Palliative Care,West Virginia,Health Maintenance Organization (HMO),56199,Bronze,25.36217151,Per Hour
+New York,Skilled Nursing,Kansas,Managed Care Plans,44562,Bronze,42.53739676,Per Hour
+Nebraska,Home Care,Oregon,Catastrophic Health Insurance,49773,Gold,24.2033232,Per Hour
+Florida,Wound Care,Texas,Point of Service (POS),43764,Silver,38.62670907,Per Hour
+Rhode Island,Hospital Care,Florida,High-Deductible Health Plan (HDHP),75690,Bronze,290,Per Day
+Florida,Rehabilitation Services,Connecticut,Managed Care Plans,45422,Gold,61.15950007,Per Hour
+Georgia,Cardiac Care,Washington,Short-term Health Insurance,22570,Silver,128.6292861,Per Hour
+Minnesota,Palliative Care,Tennessee,Employer-sponsored,13526,Bronze,25.0285052,Per Hour
+Kansas,Hospice Care,Washington,Medicare,92732,Silver,200,Per Day
+Oregon,Rehabilitation Services,Pennsylvania,Private Health Insurance,82755,Gold,94.89187753,Per Hour
+New York,Chronic Disease Management,Ohio,Medicare Supplement Insurance (Medigap),74038,Gold,36.09915282,Per Hour
+Tennessee,Skilled Nursing,Washington,Short-term Health Insurance,6025,Bronze,33.01571287,Per Hour
+North Carolina,Respiratory Therapy,Vermont,Preferred Provider Organization (PPO),84082,Silver,85.55580889,Per Hour
+Florida,Rehabilitation Services,Wisconsin,Children's Health Insurance Program (CHIP),51725,Bronze,80.12286566,Per Hour
+Texas,Palliative Care,Hawaii,Catastrophic Health Insurance,58745,Gold,26.0178904,Per Hour
+Nebraska,Pediatric Care,Vermont,Point of Service (POS),46823,Bronze,292.1055085,Per Hour
+Oklahoma,Mental Health Services,Ohio,Medicaid,88166,Bronze,187.330035,Per Hour
+New Jersey,Chronic Disease Management,Maryland,Long-term Care Insurance,18026,Silver,49.31923529,Per Hour
+Massachusetts,Pediatric Care,Florida,Health Maintenance Organization (HMO),41645,Silver,228.2079667,Per Hour
+Colorado,Telehealth,Indiana,Children's Health Insurance Program (CHIP),34494,Bronze,40.66332602,Per Visit
+North Carolina,Cardiac Care,Kansas,Long-term Care Insurance,56688,Gold,147.8889027,Per Hour
+Rhode Island,Respiratory Therapy,Georgia,Point of Service (POS),72626,Gold,58.7694825,Per Hour
+Texas,Mental Health Services,Connecticut,Private Health Insurance,92556,Bronze,180.4598976,Per Hour
+Virginia,Speech Therapy,Pennsylvania,Private Health Insurance,37776,Bronze,130.8559392,Per Hour
+North Carolina,Mental Health Services,Connecticut,Point of Service (POS),62031,Silver,227.6265054,Per Hour
+Colorado,Speech Therapy,Georgia,Commercial,98475,Silver,105.5640466,Per Hour
+Oklahoma,Palliative Care,Oregon,Managed Care Plans,98716,Gold,26.46290598,Per Hour
+Pennsylvania,Skilled Nursing,Florida,Managed Care Plans,90341,Bronze,37.61670533,Per Hour
+South Carolina,Geriatric Care,New York,Preferred Provider Organization (PPO),2589,Bronze,125.2299327,Per Hour
+Arizona,Respiratory Therapy,Maine,Short-term Health Insurance,65562,Gold,76.67091436,Per Hour
+Wisconsin,Skilled Nursing,Connecticut,Medicare Advantage,36589,Gold,36.07005781,Per Hour
+Massachusetts,Cardiac Care,Kansas,Medicare,90225,Bronze,105.3867683,Per Hour
+Indiana,Nutritional Counseling,Oregon,Medicare Advantage,12044,Gold,131.8173768,Per Hour
+Connecticut,Mental Health Services,Oregon,Indemnity Health Insurance,78395,Gold,114.3051988,Per Hour
+Nevada,Skilled Nursing,Oklahoma,Tricare,73817,Gold,30.22822574,Per Hour
+Nebraska,Mental Health Services,Vermont,Preferred Provider Organization (PPO),24820,Bronze,277.3341943,Per Hour
+Vermont,Mental Health Services,Missouri,Veterans Health Administration,57385,Bronze,256.0119489,Per Hour
+Washington,Wound Care,South Carolina,Children's Health Insurance Program (CHIP),89290,Silver,45.86852726,Per Hour
+North Carolina,Cardiac Care,Indiana,Private Health Insurance,41832,Silver,117.3563846,Per Hour
+North Carolina,Occupational Therapy,Hawaii,Point of Service (POS),40074,Gold,96.62198983,Per Hour
+Rhode Island,Skilled Nursing,New Hampshire,Medicare Advantage,85096,Silver,45.20327491,Per Hour
+South Carolina,Speech Therapy,Kentucky,Indemnity Health Insurance,11416,Silver,122.5891007,Per Hour
+Minnesota,Telehealth,Massachusetts,Veterans Health Administration,65649,Silver,40.62724855,Per Visit
+New Mexico,Diabetes Care,Iowa,Indemnity Health Insurance,59399,Bronze,50,Per Visit
+New Hampshire,Mental Health Services,Pennsylvania,Managed Care Plans,93951,Bronze,202.6435962,Per Hour
+North Carolina,Mental Health Services,Maine,Health Maintenance Organization (HMO),96258,Bronze,277.1208438,Per Hour
+Kansas,Palliative Care,Kentucky,Short-term Health Insurance,95235,Gold,27.36647234,Per Hour
+New Mexico,Rehabilitation Services,Pennsylvania,Tricare,75475,Silver,90.6122463,Per Hour
+Ohio,Pediatric Care,Virginia,Medicare,18424,Bronze,159.3573342,Per Hour
+Iowa,Chronic Disease Management,Hawaii,Point of Service (POS),22892,Bronze,47.39546227,Per Hour
+Texas,Home Care,Oregon,Commercial,78180,Silver,26.89676464,Per Hour
+Maine,Pediatric Care,West Virginia,Indemnity Health Insurance,59626,Silver,206.9590485,Per Hour
+Delaware,Chronic Disease Management,Kentucky,Exclusive Provider Organization (EPO),58774,Bronze,27.76213562,Per Hour
+Texas,Home Care,Washington,Short-term Health Insurance,80837,Bronze,26.03360618,Per Hour
+Wisconsin,Clinic Visit,Colorado,Point of Service (POS),62016,Silver,176,Per Visit
+New Mexico,Palliative Care,Georgia,Exclusive Provider Organization (EPO),1569,Bronze,25.33035924,Per Hour
+New Hampshire,Physical Therapy,Rhode Island,Medicare Supplement Insurance (Medigap),747,Silver,107.1540607,Per Hour
+Nebraska,Chronic Disease Management,Oregon,Medicaid,59087,Silver,34.48145486,Per Hour
+New Mexico,Speech Therapy,New York,Managed Care Plans,49554,Gold,141.6197765,Per Hour
+South Carolina,Wound Care,Florida,Medicare Supplement Insurance (Medigap),32577,Silver,25.62443125,Per Hour
+Minnesota,Occupational Therapy,New Hampshire,Point of Service (POS),38105,Gold,115.6393338,Per Hour
+Ohio,Occupational Therapy,Oregon,Children's Health Insurance Program (CHIP),16084,Silver,106.3439926,Per Hour
+Colorado,Skilled Nursing,Oklahoma,Preferred Provider Organization (PPO),36040,Gold,45.46803488,Per Hour
+New Jersey,Telehealth,New Jersey,Children's Health Insurance Program (CHIP),81266,Gold,47.606112,Per Visit
+Florida,Skilled Nursing,Delaware,Medicaid,64537,Silver,37.92671076,Per Hour
+Colorado,Pediatric Care,Connecticut,Indemnity Health Insurance,14051,Gold,175.9967056,Per Hour
+Nebraska,Diabetes Care,Hawaii,Private Health Insurance,4177,Gold,50,Per Visit
+Pennsylvania,Speech Therapy,Virginia,High-Deductible Health Plan (HDHP),34041,Bronze,137.4115097,Per Hour
+Nebraska,Home Care,Ohio,Point of Service (POS),83539,Silver,18.52863984,Per Hour
+Rhode Island,Telehealth,New Jersey,Employer-sponsored,66910,Bronze,40.48536105,Per Visit
+Maine,Skilled Nursing,Connecticut,Point of Service (POS),21770,Gold,25.52928,Per Hour
+Washington,Physical Therapy,New Mexico,Point of Service (POS),26407,Silver,132.1709678,Per Hour
+Georgia,Home Care,North Carolina,Short-term Health Insurance,22461,Silver,20.83452638,Per Hour
+Indiana,Home Care,New York,Preferred Provider Organization (PPO),73718,Silver,21.51758704,Per Hour
+Florida,Cardiac Care,Massachusetts,Managed Care Plans,82751,Bronze,109.6885701,Per Hour
+Kansas,Wound Care,Nebraska,Private Health Insurance,16813,Gold,25.93538972,Per Hour
+Massachusetts,Mental Health Services,Vermont,Children's Health Insurance Program (CHIP),52180,Gold,252.3301019,Per Hour
+New York,Telehealth,Kansas,High-Deductible Health Plan (HDHP),2256,Gold,46.88719645,Per Visit
+Minnesota,Hospice Care,South Carolina,Medicare Supplement Insurance (Medigap),26325,Silver,200,Per Day
+New Hampshire,Chronic Disease Management,California,Commercial,10950,Silver,27.32372166,Per Hour
+Wisconsin,Home Care,New Jersey,Veterans Health Administration,64640,Gold,18.41777931,Per Hour
+Nebraska,Occupational Therapy,Vermont,Medicare Advantage,49358,Bronze,79.73675031,Per Hour
+Tennessee,Hospital Care,West Virginia,Preferred Provider Organization (PPO),44280,Silver,290,Per Day
+Hawaii,Occupational Therapy,Minnesota,Managed Care Plans,99281,Bronze,80.81353582,Per Hour
+South Carolina,Physical Therapy,Vermont,Indemnity Health Insurance,76866,Silver,92.7116114,Per Hour
+Kansas,Diabetes Care,New Jersey,Indemnity Health Insurance,86532,Silver,50,Per Visit
+West Virginia,Diabetes Care,Maine,Managed Care Plans,72068,Bronze,50,Per Visit
+Oregon,Nutritional Counseling,Pennsylvania,Employer-sponsored,83531,Silver,107.835007,Per Hour
+West Virginia,Occupational Therapy,New York,Short-term Health Insurance,83367,Bronze,103.7766002,Per Hour
+Oregon,Rehabilitation Services,Connecticut,Medicare Supplement Insurance (Medigap),95134,Gold,81.96219169,Per Hour
+Tennessee,Hospice Care,Minnesota,Medicare Supplement Insurance (Medigap),5660,Bronze,200,Per Day
+New York,Nutritional Counseling,Massachusetts,Short-term Health Insurance,4856,Bronze,94.4887277,Per Hour
+Colorado,Respiratory Therapy,Virginia,Managed Care Plans,69699,Silver,53.08770653,Per Hour
+Georgia,Hospital Care,Colorado,Medicaid,84031,Gold,290,Per Day
+Missouri,Speech Therapy,Pennsylvania,High-Deductible Health Plan (HDHP),86609,Bronze,128.0904871,Per Hour
+Tennessee,Pediatric Care,Connecticut,Medicare Advantage,5308,Bronze,191.3365176,Per Hour
+Colorado,Rehabilitation Services,North Carolina,Long-term Care Insurance,7386,Gold,89.85207043,Per Hour
+North Carolina,Chronic Disease Management,Iowa,Point of Service (POS),93190,Gold,26.19144637,Per Hour
+Colorado,Nutritional Counseling,Iowa,Managed Care Plans,78083,Silver,84.76754179,Per Hour
+New Jersey,Diabetes Care,Oklahoma,Tricare,45597,Bronze,50,Per Visit
+Kansas,Speech Therapy,Hawaii,Managed Care Plans,77028,Silver,139.9981941,Per Hour
+Arizona,Pediatric Care,New Mexico,Catastrophic Health Insurance,10743,Gold,154.0915768,Per Hour
+Vermont,Occupational Therapy,Missouri,Medicare,89244,Bronze,144.6712497,Per Hour
+California,Telehealth,Tennessee,Preferred Provider Organization (PPO),41256,Gold,41.90221491,Per Visit
+Florida,Skilled Nursing,Nevada,Health Maintenance Organization (HMO),40875,Silver,39.02145659,Per Hour
+Georgia,Chronic Disease Management,Ohio,Tricare,54774,Gold,41.81395012,Per Hour
+New Hampshire,Hospice Care,Nebraska,Managed Care Plans,70011,Bronze,200,Per Day
+California,Geriatric Care,Rhode Island,Veterans Health Administration,78120,Gold,116.7938277,Per Hour
+Tennessee,Hospice Care,South Carolina,Managed Care Plans,38139,Silver,200,Per Day
+West Virginia,Nutritional Counseling,Virginia,Long-term Care Insurance,39940,Gold,78.38006178,Per Hour
+New Jersey,Chronic Disease Management,Arizona,Children's Health Insurance Program (CHIP),25340,Bronze,41.58037986,Per Hour
+South Carolina,Cardiac Care,Florida,Medicare Supplement Insurance (Medigap),10534,Gold,131.9960123,Per Hour
+Indiana,Telehealth,Kansas,Employer-sponsored,14332,Silver,44.10222336,Per Visit
+New Mexico,Nutritional Counseling,Nebraska,Medicare Supplement Insurance (Medigap),35233,Gold,114.7830678,Per Hour
+South Carolina,Physical Therapy,Kentucky,High-Deductible Health Plan (HDHP),52633,Gold,80.0409428,Per Hour
+Florida,Mental Health Services,Wisconsin,Health Maintenance Organization (HMO),63156,Silver,276.7610485,Per Hour
+New Hampshire,Skilled Nursing,West Virginia,High-Deductible Health Plan (HDHP),86422,Silver,45.21132202,Per Hour
+Missouri,Physical Therapy,Massachusetts,Long-term Care Insurance,77230,Silver,115.7690723,Per Hour
+Kansas,Skilled Nursing,Delaware,Exclusive Provider Organization (EPO),8726,Bronze,39.06221209,Per Hour
+New Jersey,Physical Therapy,Pennsylvania,Veterans Health Administration,27497,Bronze,117.4265616,Per Hour
+Connecticut,Home Care,Texas,Tricare,55157,Silver,19.33992217,Per Hour
+Wisconsin,Cardiac Care,New Mexico,Veterans Health Administration,75699,Gold,146.2622022,Per Hour
+Pennsylvania,Home Care,Vermont,Preferred Provider Organization (PPO),44261,Bronze,23.04817909,Per Hour
+Delaware,Speech Therapy,Colorado,High-Deductible Health Plan (HDHP),45674,Silver,100.4445314,Per Hour
+South Carolina,Respiratory Therapy,Missouri,Commercial,71045,Silver,76.65805631,Per Hour
+Pennsylvania,Palliative Care,Minnesota,Catastrophic Health Insurance,1248,Gold,25.96869398,Per Hour
+Nebraska,Diabetes Care,Oklahoma,Point of Service (POS),29384,Bronze,50,Per Visit
+Oklahoma,Physical Therapy,Colorado,Long-term Care Insurance,47268,Gold,81.15982751,Per Hour
+Florida,Diabetes Care,Kentucky,Catastrophic Health Insurance,19767,Gold,50,Per Visit
+Colorado,Home Care,Maryland,Point of Service (POS),71373,Silver,23.21373385,Per Hour
+Indiana,Physical Therapy,Iowa,Children's Health Insurance Program (CHIP),76524,Silver,142.7238063,Per Hour
+Connecticut,Occupational Therapy,Kansas,Veterans Health Administration,95943,Silver,94.77952887,Per Hour
+Arizona,Cardiac Care,Vermont,Medicaid,72963,Silver,86.09850172,Per Hour
+Rhode Island,Hospice Care,Nevada,Catastrophic Health Insurance,57204,Silver,200,Per Day
+New York,Physical Therapy,Missouri,High-Deductible Health Plan (HDHP),81663,Silver,88.93613176,Per Hour
+California,Speech Therapy,Iowa,Managed Care Plans,2628,Gold,84.18291191,Per Hour
+South Carolina,Geriatric Care,New Hampshire,Catastrophic Health Insurance,84834,Gold,86.17552143,Per Hour
+Florida,Geriatric Care,Kentucky,Medicare Supplement Insurance (Medigap),10923,Bronze,120.3279362,Per Hour
+Nevada,Geriatric Care,Ohio,Medicare Advantage,56411,Silver,80.97012004,Per Hour
+Connecticut,Geriatric Care,Georgia,Health Maintenance Organization (HMO),20070,Bronze,109.1925064,Per Hour
+Colorado,Respiratory Therapy,Kansas,Medicare Advantage,62518,Silver,94.54935612,Per Hour
+Oregon,Cardiac Care,Texas,Private Health Insurance,26874,Bronze,139.409957,Per Hour
+Georgia,Clinic Visit,Colorado,Long-term Care Insurance,4334,Bronze,176,Per Visit
+Kansas,Diabetes Care,New Hampshire,Veterans Health Administration,8936,Silver,50,Per Visit
+Washington,Cardiac Care,North Carolina,Private Health Insurance,30805,Silver,88.36480862,Per Hour
+Virginia,Geriatric Care,California,Medicare,83426,Bronze,145.2640272,Per Hour
+Florida,Home Care,Hawaii,Commercial,28612,Bronze,26.91514786,Per Hour
+California,Telehealth,Oregon,Veterans Health Administration,25022,Bronze,44.34283574,Per Visit
+Kentucky,Home Care,Florida,Veterans Health Administration,30681,Gold,27.90755805,Per Hour
+Ohio,Pediatric Care,Iowa,Health Maintenance Organization (HMO),75661,Gold,172.8668734,Per Hour
+West Virginia,Speech Therapy,Rhode Island,Health Maintenance Organization (HMO),19454,Silver,148.6689963,Per Hour
+Georgia,Hospice Care,Delaware,Preferred Provider Organization (PPO),45286,Bronze,200,Per Day
+Nevada,Speech Therapy,New Jersey,Indemnity Health Insurance,21617,Silver,77.07315777,Per Hour
+Georgia,Skilled Nursing,Pennsylvania,Employer-sponsored,79376,Gold,45.11722055,Per Hour
+Washington,Telehealth,Vermont,High-Deductible Health Plan (HDHP),42374,Bronze,46.9906856,Per Visit
+Massachusetts,Hospice Care,Florida,Medicaid,71340,Silver,200,Per Day
+Florida,Hospital Care,New Hampshire,Exclusive Provider Organization (EPO),32621,Silver,290,Per Day
+Nebraska,Geriatric Care,New Jersey,Catastrophic Health Insurance,86179,Bronze,145.7104531,Per Hour
+Oregon,Hospice Care,West Virginia,Medicare Advantage,60432,Bronze,200,Per Day
+Hawaii,Skilled Nursing,South Carolina,Health Maintenance Organization (HMO),10434,Bronze,36.62920699,Per Hour
+Oklahoma,Skilled Nursing,New Hampshire,Medicare Supplement Insurance (Medigap),80073,Silver,38.81646219,Per Hour
+Oklahoma,Physical Therapy,Connecticut,Long-term Care Insurance,83497,Bronze,112.6489137,Per Hour
+Missouri,Hospital Care,Nevada,Exclusive Provider Organization (EPO),10593,Silver,290,Per Day
+Pennsylvania,Skilled Nursing,New Jersey,Employer-sponsored,8228,Silver,34.52794702,Per Hour
+Texas,Clinic Visit,Indiana,Health Maintenance Organization (HMO),96977,Gold,176,Per Visit
+New Jersey,Hospital Care,South Carolina,Exclusive Provider Organization (EPO),38481,Bronze,290,Per Day
+Rhode Island,Chronic Disease Management,Maine,Long-term Care Insurance,48281,Gold,48.39833785,Per Hour
+New Hampshire,Palliative Care,New Mexico,Employer-sponsored,85097,Gold,26.15613493,Per Hour
+Florida,Geriatric Care,Oregon,Veterans Health Administration,77030,Gold,119.0108055,Per Hour
+Kansas,Occupational Therapy,Missouri,Medicare Advantage,84462,Bronze,97.15801131,Per Hour
+Hawaii,Pediatric Care,Kentucky,Medicare,69892,Gold,251.3865109,Per Hour
+Ohio,Chronic Disease Management,Minnesota,Indemnity Health Insurance,80006,Bronze,44.85405468,Per Hour
+Maryland,Palliative Care,Arizona,Veterans Health Administration,56080,Silver,25.2937598,Per Hour
+Florida,Physical Therapy,Arizona,High-Deductible Health Plan (HDHP),66632,Gold,130.8807634,Per Hour
+Hawaii,Physical Therapy,Wisconsin,Long-term Care Insurance,8120,Gold,112.3886933,Per Hour
+Kansas,Rehabilitation Services,Connecticut,Preferred Provider Organization (PPO),35705,Bronze,71.25692685,Per Hour
+Nebraska,Diabetes Care,Maine,High-Deductible Health Plan (HDHP),43513,Bronze,50,Per Visit
+Maryland,Chronic Disease Management,South Carolina,Exclusive Provider Organization (EPO),17164,Gold,46.12939227,Per Hour
+New Hampshire,Telehealth,Arizona,Children's Health Insurance Program (CHIP),92851,Silver,49.9049015,Per Visit
+New Jersey,Mental Health Services,Oregon,Employer-sponsored,21711,Bronze,271.3002959,Per Hour
+Hawaii,Cardiac Care,North Carolina,Exclusive Provider Organization (EPO),47330,Gold,146.23414,Per Hour
+Connecticut,Pediatric Care,Oregon,Short-term Health Insurance,25112,Gold,213.643837,Per Hour
+Indiana,Nutritional Counseling,West Virginia,Medicare Supplement Insurance (Medigap),86226,Gold,149.3199955,Per Hour
+New Hampshire,Clinic Visit,New Hampshire,Short-term Health Insurance,74199,Bronze,176,Per Visit
+Virginia,Respiratory Therapy,Arizona,Employer-sponsored,45942,Silver,78.95427979,Per Hour
+Delaware,Cardiac Care,California,Medicare Supplement Insurance (Medigap),69350,Bronze,131.8486208,Per Hour
+Maine,Occupational Therapy,New Hampshire,Health Maintenance Organization (HMO),98271,Silver,95.55457694,Per Hour
+Oklahoma,Clinic Visit,Massachusetts,Point of Service (POS),92577,Bronze,176,Per Visit
+Washington,Skilled Nursing,West Virginia,Medicare,62091,Gold,39.4185351,Per Hour
+Arizona,Telehealth,Texas,Commercial,70288,Silver,43.86730065,Per Visit
+Nebraska,Respiratory Therapy,Minnesota,Tricare,62070,Bronze,64.32376955,Per Hour
+New Jersey,Wound Care,Georgia,Veterans Health Administration,30227,Bronze,25.00674165,Per Hour
+Maryland,Palliative Care,Vermont,Commercial,5252,Bronze,26.55646882,Per Hour
+Kentucky,Speech Therapy,Oregon,Short-term Health Insurance,37312,Bronze,112.2984491,Per Hour
+North Carolina,Wound Care,Indiana,Private Health Insurance,79418,Silver,30.99490524,Per Hour
+Vermont,Skilled Nursing,Massachusetts,Medicare Supplement Insurance (Medigap),88719,Bronze,36.43767453,Per Hour
+Maryland,Physical Therapy,Virginia,Indemnity Health Insurance,89422,Gold,104.2025631,Per Hour
+Hawaii,Skilled Nursing,New York,High-Deductible Health Plan (HDHP),94341,Silver,42.36958352,Per Hour
+Nevada,Pediatric Care,Vermont,Exclusive Provider Organization (EPO),48387,Silver,177.3700262,Per Hour
+Texas,Hospital Care,Colorado,Managed Care Plans,2579,Bronze,290,Per Day
+Vermont,Cardiac Care,Connecticut,Medicare Supplement Insurance (Medigap),10877,Gold,127.2820676,Per Hour
+New Jersey,Hospice Care,California,Private Health Insurance,20215,Silver,200,Per Day
+New Jersey,Hospital Care,Kansas,High-Deductible Health Plan (HDHP),84898,Bronze,290,Per Day
+Nevada,Respiratory Therapy,Delaware,Long-term Care Insurance,10843,Gold,81.14553681,Per Hour
+Colorado,Speech Therapy,Ohio,Children's Health Insurance Program (CHIP),46684,Silver,124.6813852,Per Hour
+Ohio,Occupational Therapy,Massachusetts,Private Health Insurance,7869,Silver,136.0612083,Per Hour
+California,Occupational Therapy,New Hampshire,Medicaid,66994,Gold,88.75122356,Per Hour
+Iowa,Telehealth,Washington,Medicare,50147,Silver,45.49033471,Per Visit
+Maine,Skilled Nursing,Delaware,Point of Service (POS),69086,Gold,27.14370752,Per Hour
+North Carolina,Physical Therapy,Rhode Island,Employer-sponsored,61665,Bronze,124.1842363,Per Hour
+Massachusetts,Physical Therapy,Georgia,Exclusive Provider Organization (EPO),21732,Bronze,94.8368739,Per Hour
+Maryland,Mental Health Services,Kentucky,Tricare,83869,Silver,223.4997132,Per Hour
+Georgia,Chronic Disease Management,Nevada,Medicare,1711,Bronze,44.56862998,Per Hour
+Tennessee,Occupational Therapy,West Virginia,Private Health Insurance,58437,Silver,105.7440458,Per Hour
+Massachusetts,Skilled Nursing,Missouri,Medicare Advantage,51278,Bronze,47.78017371,Per Hour
+Tennessee,Geriatric Care,Nevada,Private Health Insurance,95385,Bronze,111.8247517,Per Hour
+Connecticut,Wound Care,California,Short-term Health Insurance,1562,Gold,38.28977845,Per Hour
+Wisconsin,Mental Health Services,Kentucky,Point of Service (POS),39599,Gold,156.4518776,Per Hour
+Wisconsin,Physical Therapy,Massachusetts,Managed Care Plans,47972,Silver,116.9310868,Per Hour
+Indiana,Palliative Care,South Carolina,Medicare Supplement Insurance (Medigap),45750,Gold,26.70485598,Per Hour
+Hawaii,Hospital Care,Florida,Medicare,80591,Gold,290,Per Day
+Oklahoma,Occupational Therapy,Florida,High-Deductible Health Plan (HDHP),17099,Bronze,142.2814277,Per Hour
+South Carolina,Palliative Care,Pennsylvania,Health Maintenance Organization (HMO),3057,Gold,27.41447725,Per Hour
+Vermont,Cardiac Care,Colorado,Private Health Insurance,97353,Silver,107.1300159,Per Hour
+Kentucky,Diabetes Care,New Jersey,Children's Health Insurance Program (CHIP),92800,Bronze,50,Per Visit
+Oklahoma,Mental Health Services,North Carolina,Exclusive Provider Organization (EPO),82673,Gold,255.2022016,Per Hour
+North Carolina,Rehabilitation Services,Missouri,Veterans Health Administration,35859,Bronze,63.44280782,Per Hour
+Virginia,Cardiac Care,Kentucky,Long-term Care Insurance,18201,Silver,126.9854963,Per Hour
+Nevada,Occupational Therapy,Delaware,Exclusive Provider Organization (EPO),85914,Bronze,97.02521361,Per Hour
+Ohio,Telehealth,Kentucky,Point of Service (POS),68858,Silver,40.41474133,Per Visit
+North Carolina,Wound Care,Minnesota,Preferred Provider Organization (PPO),59687,Bronze,44.47216563,Per Hour
+Missouri,Wound Care,North Carolina,Catastrophic Health Insurance,76459,Silver,45.71974967,Per Hour
+Florida,Clinic Visit,Minnesota,Medicaid,49986,Bronze,176,Per Visit
+South Carolina,Clinic Visit,Nevada,Tricare,62373,Bronze,176,Per Visit
+Rhode Island,Mental Health Services,New Jersey,Tricare,44911,Silver,147.7766653,Per Hour
+Virginia,Pediatric Care,Minnesota,Private Health Insurance,61858,Silver,168.5910611,Per Hour
+Connecticut,Mental Health Services,Indiana,Children's Health Insurance Program (CHIP),78553,Bronze,163.4290074,Per Hour
+Missouri,Chronic Disease Management,South Carolina,Long-term Care Insurance,55971,Gold,28.45613348,Per Hour
+New York,Pediatric Care,California,Children's Health Insurance Program (CHIP),93139,Silver,255.6305517,Per Hour
+Tennessee,Speech Therapy,California,Medicare,88296,Bronze,100.2138836,Per Hour
+Oklahoma,Pediatric Care,South Carolina,Indemnity Health Insurance,84782,Bronze,191.1737039,Per Hour
+Kentucky,Physical Therapy,Maine,Long-term Care Insurance,68843,Bronze,138.9025549,Per Hour
+Vermont,Wound Care,Colorado,Health Maintenance Organization (HMO),94028,Gold,27.47872515,Per Hour
+Nebraska,Hospice Care,Indiana,Medicare Advantage,2592,Gold,200,Per Day
+Indiana,Hospital Care,Missouri,Medicaid,12374,Bronze,290,Per Day
+Maine,Diabetes Care,Oregon,Indemnity Health Insurance,74037,Silver,50,Per Visit
+Vermont,Rehabilitation Services,Texas,Medicare Supplement Insurance (Medigap),93400,Bronze,52.59548725,Per Hour
+New Hampshire,Wound Care,Delaware,Short-term Health Insurance,8720,Silver,45.3045476,Per Hour
+Connecticut,Home Care,Vermont,Short-term Health Insurance,89112,Gold,23.61596133,Per Hour
+Tennessee,Hospital Care,Texas,Children's Health Insurance Program (CHIP),75104,Gold,290,Per Day
+Kansas,Rehabilitation Services,Massachusetts,Managed Care Plans,76000,Gold,95.61909319,Per Hour
+Nevada,Occupational Therapy,Georgia,Long-term Care Insurance,56205,Gold,111.2391597,Per Hour
+Missouri,Speech Therapy,New Jersey,Veterans Health Administration,47839,Bronze,97.8467358,Per Hour
+Connecticut,Physical Therapy,South Carolina,Medicare Supplement Insurance (Medigap),75330,Silver,148.0824636,Per Hour
+Oklahoma,Cardiac Care,Kentucky,Exclusive Provider Organization (EPO),71849,Gold,80.53725394,Per Hour
+Iowa,Hospital Care,Maine,Employer-sponsored,68145,Silver,290,Per Day
+New York,Home Care,Texas,Long-term Care Insurance,18930,Bronze,24.7819966,Per Hour
+Kansas,Home Care,Texas,Indemnity Health Insurance,56240,Bronze,25.25378413,Per Hour
+New Jersey,Hospital Care,Georgia,Commercial,14198,Gold,290,Per Day
+Arizona,Chronic Disease Management,Nevada,Managed Care Plans,45291,Gold,49.31938048,Per Hour
+Vermont,Cardiac Care,Virginia,Tricare,17616,Silver,91.33199487,Per Hour
+Georgia,Physical Therapy,Virginia,Commercial,9763,Bronze,133.8906531,Per Hour
+West Virginia,Mental Health Services,Pennsylvania,Veterans Health Administration,13897,Bronze,183.8666705,Per Hour
+Nevada,Respiratory Therapy,Washington,Medicaid,99546,Bronze,59.14505627,Per Hour
+Kansas,Wound Care,Wisconsin,Point of Service (POS),5449,Gold,47.6188767,Per Hour
+Ohio,Telehealth,Oregon,Indemnity Health Insurance,10081,Silver,40.31808142,Per Visit
+Minnesota,Chronic Disease Management,Oregon,Preferred Provider Organization (PPO),43781,Gold,40.66145531,Per Hour
+Iowa,Skilled Nursing,Connecticut,Medicare,31799,Silver,31.3859502,Per Hour
+Kansas,Nutritional Counseling,Georgia,Point of Service (POS),92790,Gold,129.4753684,Per Hour
+Oklahoma,Nutritional Counseling,Connecticut,Point of Service (POS),24028,Gold,137.4214918,Per Hour
+Wisconsin,Chronic Disease Management,Hawaii,Exclusive Provider Organization (EPO),70817,Gold,31.10178924,Per Hour
+Maine,Rehabilitation Services,Delaware,Medicare Advantage,28049,Bronze,54.6585083,Per Hour
+Rhode Island,Diabetes Care,Maryland,Exclusive Provider Organization (EPO),4441,Bronze,50,Per Visit
+Arizona,Respiratory Therapy,Wisconsin,Medicare Advantage,82627,Silver,81.07819878,Per Hour
+Maine,Wound Care,Nevada,Children's Health Insurance Program (CHIP),27217,Silver,41.4488063,Per Hour
+Rhode Island,Physical Therapy,Nevada,Children's Health Insurance Program (CHIP),5572,Gold,145.0055434,Per Hour
+Oregon,Home Care,Maryland,Commercial,28477,Gold,19.55663887,Per Hour
+Georgia,Physical Therapy,Washington,Indemnity Health Insurance,90286,Bronze,102.5603204,Per Hour
+Pennsylvania,Geriatric Care,West Virginia,Employer-sponsored,85733,Bronze,119.9244664,Per Hour
+Missouri,Diabetes Care,Nebraska,Private Health Insurance,61779,Gold,50,Per Visit
+Kansas,Speech Therapy,Minnesota,High-Deductible Health Plan (HDHP),84339,Silver,75.54509968,Per Hour
+Hawaii,Pediatric Care,Arizona,Managed Care Plans,51772,Bronze,296.7399684,Per Hour
+Maine,Rehabilitation Services,Oklahoma,Health Maintenance Organization (HMO),13530,Gold,67.88448613,Per Hour
+Georgia,Wound Care,New Mexico,Preferred Provider Organization (PPO),86236,Gold,45.49880249,Per Hour
+Oregon,Nutritional Counseling,Delaware,Medicare Supplement Insurance (Medigap),28875,Silver,130.1828575,Per Hour
+Arizona,Speech Therapy,Georgia,Tricare,28339,Bronze,128.7701482,Per Hour
+Maine,Diabetes Care,Delaware,Managed Care Plans,60494,Silver,50,Per Visit
+Ohio,Physical Therapy,Rhode Island,Medicaid,58324,Bronze,92.44693798,Per Hour
+New York,Diabetes Care,West Virginia,Preferred Provider Organization (PPO),25204,Gold,50,Per Visit
+Kansas,Palliative Care,Ohio,Exclusive Provider Organization (EPO),99724,Silver,26.74278873,Per Hour
+Vermont,Nutritional Counseling,Washington,Long-term Care Insurance,9301,Gold,128.6062287,Per Hour
+Nebraska,Skilled Nursing,Washington,Catastrophic Health Insurance,66961,Gold,33.36128116,Per Hour
+Vermont,Pediatric Care,Missouri,Exclusive Provider Organization (EPO),45993,Silver,181.1706581,Per Hour
+Tennessee,Cardiac Care,Nebraska,Medicare Supplement Insurance (Medigap),58860,Gold,111.1748703,Per Hour
+North Carolina,Occupational Therapy,Missouri,Tricare,42730,Gold,129.5901126,Per Hour
+Vermont,Wound Care,Georgia,Long-term Care Insurance,2480,Bronze,43.73037612,Per Hour
+Pennsylvania,Cardiac Care,Maine,Indemnity Health Insurance,42027,Silver,120.2538496,Per Hour
+Minnesota,Speech Therapy,Pennsylvania,Medicare,77584,Silver,135.9847594,Per Hour
+Wisconsin,Chronic Disease Management,Iowa,Point of Service (POS),88694,Gold,40.4846568,Per Hour
+South Carolina,Skilled Nursing,Maryland,Tricare,15295,Bronze,36.3601312,Per Hour
+Texas,Nutritional Counseling,New York,Children's Health Insurance Program (CHIP),35094,Gold,96.39796684,Per Hour
+Massachusetts,Home Care,Georgia,Veterans Health Administration,10316,Bronze,18.440999,Per Hour
+New Hampshire,Wound Care,Kansas,Short-term Health Insurance,65494,Gold,37.42042057,Per Hour
+Rhode Island,Respiratory Therapy,South Carolina,Indemnity Health Insurance,82774,Bronze,55.83838659,Per Hour
+Minnesota,Hospice Care,Iowa,Medicare,44740,Silver,200,Per Day
+Hawaii,Speech Therapy,Arizona,High-Deductible Health Plan (HDHP),9703,Silver,115.5958172,Per Hour
+Maryland,Cardiac Care,Pennsylvania,High-Deductible Health Plan (HDHP),69236,Bronze,96.60700237,Per Hour
+Iowa,Pediatric Care,New Hampshire,Employer-sponsored,23317,Gold,219.5016355,Per Hour
+Virginia,Palliative Care,Hawaii,Health Maintenance Organization (HMO),35135,Gold,27.51102617,Per Hour
+Oregon,Cardiac Care,Georgia,Managed Care Plans,88763,Gold,104.9210639,Per Hour
+Rhode Island,Telehealth,Oregon,Indemnity Health Insurance,40023,Bronze,47.99953972,Per Visit
+Oregon,Chronic Disease Management,New Hampshire,Preferred Provider Organization (PPO),88425,Bronze,36.53642038,Per Hour
+Indiana,Geriatric Care,New Mexico,Long-term Care Insurance,68181,Gold,119.3013163,Per Hour
+Arizona,Hospital Care,Oklahoma,Point of Service (POS),3266,Silver,290,Per Day
+Hawaii,Chronic Disease Management,Oregon,Medicare Advantage,66139,Gold,42.38239869,Per Hour
+Nebraska,Hospice Care,West Virginia,Health Maintenance Organization (HMO),22338,Bronze,200,Per Day
+Kentucky,Mental Health Services,Delaware,Preferred Provider Organization (PPO),30029,Bronze,121.7565557,Per Hour
+Wisconsin,Chronic Disease Management,Nebraska,Children's Health Insurance Program (CHIP),21001,Silver,38.5744937,Per Hour
+Oklahoma,Respiratory Therapy,Massachusetts,Managed Care Plans,71672,Silver,58.87882977,Per Hour
+Maine,Cardiac Care,Minnesota,High-Deductible Health Plan (HDHP),9623,Silver,145.6858904,Per Hour
+New Hampshire,Cardiac Care,Oregon,Health Maintenance Organization (HMO),64727,Bronze,124.7302778,Per Hour
+Indiana,Occupational Therapy,Texas,High-Deductible Health Plan (HDHP),53571,Gold,126.5053823,Per Hour
+Arizona,Physical Therapy,Georgia,Medicare Supplement Insurance (Medigap),55311,Gold,88.33033927,Per Hour
+Oregon,Home Care,North Carolina,Catastrophic Health Insurance,62057,Bronze,26.19329538,Per Hour
+Oklahoma,Speech Therapy,North Carolina,High-Deductible Health Plan (HDHP),23544,Silver,139.7832117,Per Hour
+Tennessee,Pediatric Care,Tennessee,Medicare Advantage,90810,Bronze,255.9318803,Per Hour
+Nevada,Pediatric Care,Ohio,Point of Service (POS),30478,Bronze,259.4926149,Per Hour
+Massachusetts,Clinic Visit,Tennessee,Medicare Supplement Insurance (Medigap),5777,Bronze,176,Per Visit
+Washington,Pediatric Care,Oklahoma,Medicare Supplement Insurance (Medigap),87306,Silver,192.5726123,Per Hour
+Nevada,Rehabilitation Services,New Hampshire,Private Health Insurance,5210,Gold,74.39941993,Per Hour
+Arizona,Occupational Therapy,Massachusetts,Medicare Advantage,79228,Silver,83.88821224,Per Hour
+Nebraska,Chronic Disease Management,Rhode Island,High-Deductible Health Plan (HDHP),56931,Gold,32.29623424,Per Hour
+Delaware,Telehealth,Massachusetts,Medicare Advantage,64375,Silver,45.49024382,Per Visit
+Wisconsin,Physical Therapy,Texas,Exclusive Provider Organization (EPO),23512,Gold,131.6595074,Per Hour
+Pennsylvania,Diabetes Care,New Jersey,Private Health Insurance,20731,Silver,50,Per Visit
+New Mexico,Hospital Care,Indiana,Point of Service (POS),97053,Gold,290,Per Day
+Vermont,Speech Therapy,Georgia,Point of Service (POS),26077,Silver,84.38158666,Per Hour
+Tennessee,Home Care,Massachusetts,Tricare,56279,Gold,26.37616606,Per Hour
+New Hampshire,Geriatric Care,Wisconsin,High-Deductible Health Plan (HDHP),17894,Silver,81.2767612,Per Hour
+Ohio,Diabetes Care,West Virginia,Private Health Insurance,20676,Silver,50,Per Visit
+Florida,Hospice Care,Massachusetts,Medicare,35774,Bronze,200,Per Day
+West Virginia,Diabetes Care,Massachusetts,Medicare,73420,Silver,50,Per Visit
+Ohio,Skilled Nursing,North Carolina,Short-term Health Insurance,30039,Bronze,33.13982045,Per Hour
+New Jersey,Hospital Care,California,Preferred Provider Organization (PPO),5066,Silver,290,Per Day
+Minnesota,Skilled Nursing,Delaware,Preferred Provider Organization (PPO),88049,Silver,30.36509573,Per Hour
+North Carolina,Mental Health Services,Colorado,Veterans Health Administration,71730,Gold,201.4022266,Per Hour
+North Carolina,Clinic Visit,Washington,Veterans Health Administration,41587,Bronze,176,Per Visit
+Nevada,Mental Health Services,Wisconsin,Health Maintenance Organization (HMO),58078,Bronze,220.2434294,Per Hour
+Colorado,Respiratory Therapy,Florida,Medicare Supplement Insurance (Medigap),26534,Gold,64.55777815,Per Hour
+Vermont,Mental Health Services,Maine,Health Maintenance Organization (HMO),89974,Silver,216.7051974,Per Hour
+New Jersey,Telehealth,Washington,Employer-sponsored,79141,Gold,41.65036514,Per Visit
+Nebraska,Speech Therapy,Oklahoma,Exclusive Provider Organization (EPO),70178,Gold,93.33837005,Per Hour
+Ohio,Pediatric Care,Nebraska,Preferred Provider Organization (PPO),27250,Gold,297.7396671,Per Hour
+South Carolina,Home Care,Wisconsin,Medicare Advantage,13693,Gold,27.64410087,Per Hour
+Kentucky,Geriatric Care,Georgia,Medicare Advantage,16088,Bronze,143.004158,Per Hour
+Minnesota,Wound Care,Georgia,Long-term Care Insurance,56363,Gold,28.71406622,Per Hour
+Delaware,Occupational Therapy,New York,Catastrophic Health Insurance,58098,Silver,86.26021898,Per Hour
+Nebraska,Mental Health Services,Washington,Private Health Insurance,48409,Bronze,234.5279988,Per Hour
+Wisconsin,Physical Therapy,Vermont,Long-term Care Insurance,36451,Gold,149.7642422,Per Hour
+Massachusetts,Diabetes Care,Nevada,High-Deductible Health Plan (HDHP),99204,Gold,50,Per Visit
+Colorado,Rehabilitation Services,Georgia,Health Maintenance Organization (HMO),45791,Bronze,63.09429506,Per Hour
+Rhode Island,Palliative Care,Rhode Island,High-Deductible Health Plan (HDHP),18853,Silver,26.34403616,Per Hour
+Hawaii,Respiratory Therapy,Delaware,Catastrophic Health Insurance,96940,Bronze,99.51603969,Per Hour
+Hawaii,Rehabilitation Services,North Carolina,Private Health Insurance,94271,Bronze,89.29154482,Per Hour
+South Carolina,Diabetes Care,North Carolina,Health Maintenance Organization (HMO),52345,Bronze,50,Per Visit
+Connecticut,Rehabilitation Services,Maryland,Exclusive Provider Organization (EPO),37483,Gold,70.77249311,Per Hour
+New York,Hospital Care,Colorado,Catastrophic Health Insurance,12592,Gold,290,Per Day
+Oregon,Pediatric Care,Kentucky,Medicare,17333,Silver,174.2422942,Per Hour
+Oklahoma,Physical Therapy,Florida,Medicaid,91746,Gold,130.3034011,Per Hour
+Nevada,Rehabilitation Services,Ohio,High-Deductible Health Plan (HDHP),62494,Bronze,82.1164948,Per Hour
+Kentucky,Wound Care,Missouri,Children's Health Insurance Program (CHIP),52356,Silver,49.24400228,Per Hour
+Pennsylvania,Palliative Care,West Virginia,Short-term Health Insurance,800,Silver,27.47383734,Per Hour
+Washington,Mental Health Services,New Hampshire,Indemnity Health Insurance,67553,Gold,161.0695546,Per Hour
+Virginia,Rehabilitation Services,Missouri,Tricare,40958,Bronze,77.6818763,Per Hour
+Oregon,Physical Therapy,Massachusetts,Children's Health Insurance Program (CHIP),34886,Gold,135.8730969,Per Hour
+North Carolina,Rehabilitation Services,Massachusetts,Point of Service (POS),95844,Silver,74.51271849,Per Hour
+Rhode Island,Respiratory Therapy,Oklahoma,Short-term Health Insurance,89804,Gold,74.78594409,Per Hour
+Maine,Wound Care,Hawaii,Indemnity Health Insurance,12589,Silver,38.83865945,Per Hour
+Connecticut,Chronic Disease Management,Vermont,Indemnity Health Insurance,37809,Silver,33.68464959,Per Hour
+Kansas,Speech Therapy,Connecticut,Private Health Insurance,30648,Gold,95.29530389,Per Hour
+New Jersey,Occupational Therapy,Washington,Indemnity Health Insurance,50699,Bronze,99.71024215,Per Hour
+Tennessee,Occupational Therapy,South Carolina,Tricare,16051,Gold,138.9515028,Per Hour
+Pennsylvania,Hospital Care,Minnesota,Preferred Provider Organization (PPO),64760,Gold,290,Per Day
+New York,Physical Therapy,New Jersey,Exclusive Provider Organization (EPO),9425,Bronze,97.24314063,Per Hour
+Tennessee,Palliative Care,Oklahoma,Commercial,69418,Bronze,25.40398356,Per Hour
+Hawaii,Chronic Disease Management,Colorado,Tricare,76351,Silver,42.49262701,Per Hour
+Texas,Pediatric Care,Hawaii,Exclusive Provider Organization (EPO),80061,Gold,267.9987389,Per Hour
+Indiana,Cardiac Care,New Mexico,Health Maintenance Organization (HMO),20951,Gold,124.3955611,Per Hour
+Minnesota,Speech Therapy,Minnesota,Medicaid,36920,Gold,124.4749159,Per Hour
+Indiana,Home Care,Washington,Tricare,7498,Gold,20.33483573,Per Hour
+Wisconsin,Clinic Visit,Ohio,Tricare,50322,Gold,176,Per Visit
+New Hampshire,Rehabilitation Services,Vermont,Indemnity Health Insurance,92478,Silver,59.41853572,Per Hour
+Arizona,Skilled Nursing,Maine,Children's Health Insurance Program (CHIP),66967,Gold,45.18710541,Per Hour
+Washington,Home Care,New Jersey,Indemnity Health Insurance,2805,Gold,26.6668229,Per Hour
+Oregon,Rehabilitation Services,Indiana,Private Health Insurance,44465,Silver,65.12266748,Per Hour
+Ohio,Clinic Visit,Arizona,Medicare Advantage,66512,Silver,176,Per Visit
+Arizona,Mental Health Services,Pennsylvania,Indemnity Health Insurance,68111,Bronze,254.577161,Per Hour
+Massachusetts,Hospice Care,Colorado,Indemnity Health Insurance,49060,Gold,200,Per Day
+Rhode Island,Palliative Care,Colorado,Medicare Advantage,24800,Gold,27.43649672,Per Hour
+Texas,Clinic Visit,Vermont,Commercial,71473,Silver,176,Per Visit
+Nevada,Pediatric Care,Kansas,Short-term Health Insurance,28544,Silver,159.9015664,Per Hour
+Hawaii,Cardiac Care,Kansas,Point of Service (POS),91462,Silver,105.8957187,Per Hour
+Iowa,Diabetes Care,Massachusetts,Short-term Health Insurance,46317,Bronze,50,Per Visit
+Pennsylvania,Home Care,Massachusetts,Medicare Advantage,14484,Gold,22.43478772,Per Hour
+Ohio,Cardiac Care,Oregon,Indemnity Health Insurance,77182,Silver,111.9994517,Per Hour
+Pennsylvania,Home Care,New York,Commercial,31904,Gold,20.95160521,Per Hour
+Wisconsin,Respiratory Therapy,Indiana,Commercial,63135,Bronze,58.18787218,Per Hour
+Washington,Clinic Visit,Minnesota,Preferred Provider Organization (PPO),95584,Gold,176,Per Visit
+Maine,Physical Therapy,Florida,Private Health Insurance,13760,Gold,142.6331998,Per Hour
+Vermont,Hospice Care,Hawaii,Commercial,7717,Bronze,200,Per Day
+Washington,Chronic Disease Management,Indiana,Point of Service (POS),75205,Gold,25.50055041,Per Hour
+South Carolina,Diabetes Care,Tennessee,Health Maintenance Organization (HMO),90596,Silver,50,Per Visit
+California,Speech Therapy,Nevada,Health Maintenance Organization (HMO),56935,Bronze,134.8908543,Per Hour
+New Jersey,Speech Therapy,North Carolina,Employer-sponsored,47102,Gold,128.9643257,Per Hour
+Washington,Hospice Care,Delaware,Long-term Care Insurance,91233,Silver,200,Per Day
+Colorado,Speech Therapy,Hawaii,Children's Health Insurance Program (CHIP),27205,Gold,86.00786296,Per Hour
+Rhode Island,Telehealth,Missouri,Long-term Care Insurance,53210,Gold,40.37929537,Per Visit
+Arizona,Occupational Therapy,Pennsylvania,Medicaid,88448,Gold,108.78152,Per Hour
+New Jersey,Chronic Disease Management,Oklahoma,High-Deductible Health Plan (HDHP),61644,Bronze,36.78010161,Per Hour
+Tennessee,Physical Therapy,Oklahoma,Managed Care Plans,84634,Bronze,122.7267699,Per Hour
+Arizona,Chronic Disease Management,Delaware,High-Deductible Health Plan (HDHP),76095,Gold,47.41834881,Per Hour
+Oregon,Telehealth,Massachusetts,Veterans Health Administration,66189,Gold,47.47080232,Per Visit
+Indiana,Pediatric Care,Kentucky,Preferred Provider Organization (PPO),61053,Bronze,150.5000914,Per Hour
+North Carolina,Home Care,Kentucky,Medicare Supplement Insurance (Medigap),893,Bronze,18.81484754,Per Hour
+Connecticut,Clinic Visit,Oregon,Short-term Health Insurance,18481,Gold,176,Per Visit
+Indiana,Hospice Care,Washington,Health Maintenance Organization (HMO),57802,Gold,200,Per Day
+Delaware,Diabetes Care,Colorado,Tricare,94235,Gold,50,Per Visit
+Washington,Palliative Care,Kentucky,Medicare,75767,Bronze,25.64532951,Per Hour
+Hawaii,Speech Therapy,West Virginia,Health Maintenance Organization (HMO),39594,Bronze,120.8952572,Per Hour
+Massachusetts,Pediatric Care,California,Employer-sponsored,46221,Gold,171.7437941,Per Hour
+Nebraska,Geriatric Care,Nebraska,Commercial,77768,Silver,113.2846235,Per Hour
+North Carolina,Physical Therapy,Colorado,Tricare,10690,Silver,97.71133462,Per Hour
+New Hampshire,Geriatric Care,Oregon,Short-term Health Insurance,985,Bronze,135.9365402,Per Hour
+Georgia,Hospital Care,Indiana,Medicare Advantage,71718,Bronze,290,Per Day
+Colorado,Wound Care,Indiana,Short-term Health Insurance,24793,Gold,41.31086658,Per Hour
+Kentucky,Rehabilitation Services,Maine,Preferred Provider Organization (PPO),75128,Bronze,52.37193403,Per Hour
+Washington,Speech Therapy,Florida,Commercial,81774,Gold,130.4584784,Per Hour
+Nevada,Skilled Nursing,Arizona,High-Deductible Health Plan (HDHP),55995,Silver,31.9109982,Per Hour
+Hawaii,Chronic Disease Management,Texas,Catastrophic Health Insurance,89991,Bronze,38.48616289,Per Hour
+Iowa,Nutritional Counseling,Oregon,Veterans Health Administration,61243,Bronze,97.59400218,Per Hour
+Tennessee,Wound Care,Massachusetts,Preferred Provider Organization (PPO),61069,Silver,38.37497478,Per Hour
+Arizona,Speech Therapy,New Mexico,Medicare Supplement Insurance (Medigap),64650,Gold,124.818293,Per Hour
+West Virginia,Nutritional Counseling,Washington,Exclusive Provider Organization (EPO),2491,Gold,135.5836127,Per Hour
+Hawaii,Skilled Nursing,New Hampshire,Short-term Health Insurance,26000,Silver,26.60810597,Per Hour
+West Virginia,Occupational Therapy,Connecticut,Point of Service (POS),72680,Bronze,80.50636531,Per Hour
+Vermont,Home Care,New York,Preferred Provider Organization (PPO),40406,Silver,21.99160325,Per Hour
+Connecticut,Telehealth,Colorado,Medicare Supplement Insurance (Medigap),55313,Bronze,41.84114985,Per Visit
+New Hampshire,Mental Health Services,California,Veterans Health Administration,37075,Silver,127.7650561,Per Hour
+Minnesota,Cardiac Care,Florida,High-Deductible Health Plan (HDHP),26969,Bronze,91.98547154,Per Hour
+New Jersey,Pediatric Care,Connecticut,Employer-sponsored,80277,Gold,223.4626742,Per Hour
+Hawaii,Respiratory Therapy,Washington,Children's Health Insurance Program (CHIP),15316,Silver,94.41653645,Per Hour
+Missouri,Palliative Care,Virginia,Managed Care Plans,85274,Bronze,25.85794068,Per Hour
+Connecticut,Mental Health Services,Nebraska,Health Maintenance Organization (HMO),26214,Bronze,156.0356319,Per Hour
+Delaware,Palliative Care,Connecticut,Tricare,91105,Bronze,27.21363139,Per Hour
+Hawaii,Geriatric Care,Indiana,Long-term Care Insurance,37460,Bronze,135.753975,Per Hour
+South Carolina,Geriatric Care,Indiana,Tricare,3353,Bronze,111.8921734,Per Hour
+New York,Home Care,Texas,Medicaid,75227,Gold,18.7996748,Per Hour
+Minnesota,Geriatric Care,New Mexico,Preferred Provider Organization (PPO),89960,Silver,109.1217799,Per Hour
+Massachusetts,Nutritional Counseling,New Hampshire,Employer-sponsored,47561,Silver,115.9305989,Per Hour
+Kentucky,Physical Therapy,Indiana,Medicare Supplement Insurance (Medigap),38515,Gold,109.4649279,Per Hour
+Tennessee,Mental Health Services,Minnesota,Commercial,22975,Bronze,131.7933216,Per Hour
+New Jersey,Nutritional Counseling,New Hampshire,Exclusive Provider Organization (EPO),20877,Gold,85.85162264,Per Hour
+Indiana,Diabetes Care,Maryland,Veterans Health Administration,84021,Bronze,50,Per Visit
+Vermont,Hospice Care,Maryland,Exclusive Provider Organization (EPO),94440,Bronze,200,Per Day
+Oklahoma,Skilled Nursing,Nevada,Employer-sponsored,20579,Bronze,36.14665742,Per Hour
+Maine,Rehabilitation Services,Georgia,Catastrophic Health Insurance,29255,Gold,63.57730493,Per Hour
+Georgia,Hospice Care,Oregon,Tricare,34757,Silver,200,Per Day
+North Carolina,Geriatric Care,Iowa,Health Maintenance Organization (HMO),24268,Bronze,86.21795354,Per Hour
+Kansas,Home Care,Washington,Catastrophic Health Insurance,8496,Gold,17.08886202,Per Hour
+North Carolina,Palliative Care,Minnesota,Health Maintenance Organization (HMO),68089,Bronze,26.57165461,Per Hour
+Virginia,Hospice Care,New York,Short-term Health Insurance,19560,Bronze,200,Per Day
+Kansas,Cardiac Care,Virginia,Medicaid,84417,Silver,101.4873015,Per Hour
+Missouri,Wound Care,Nebraska,Commercial,64363,Bronze,41.73998571,Per Hour
+California,Physical Therapy,New Mexico,Medicare Advantage,54790,Gold,98.06598822,Per Hour
+Rhode Island,Occupational Therapy,Virginia,Exclusive Provider Organization (EPO),97763,Bronze,137.2040164,Per Hour
+Georgia,Skilled Nursing,Nevada,Health Maintenance Organization (HMO),62955,Silver,47.76215238,Per Hour
+Pennsylvania,Nutritional Counseling,New Hampshire,Health Maintenance Organization (HMO),61204,Silver,141.0388578,Per Hour
+Ohio,Skilled Nursing,Washington,Commercial,10127,Gold,33.76875351,Per Hour
+Maryland,Hospital Care,Hawaii,Long-term Care Insurance,36866,Bronze,290,Per Day
+New York,Pediatric Care,Kansas,Health Maintenance Organization (HMO),16756,Bronze,232.9940603,Per Hour
+Wisconsin,Chronic Disease Management,Missouri,Medicaid,89238,Bronze,49.30672978,Per Hour
+New Hampshire,Nutritional Counseling,California,Private Health Insurance,43471,Gold,119.3058053,Per Hour
+Vermont,Hospital Care,Georgia,Children's Health Insurance Program (CHIP),32510,Gold,290,Per Day
+New Mexico,Clinic Visit,Maine,Medicaid,59674,Bronze,176,Per Visit
+California,Rehabilitation Services,New Jersey,High-Deductible Health Plan (HDHP),90043,Bronze,91.15773886,Per Hour
+Tennessee,Mental Health Services,Washington,Point of Service (POS),88906,Silver,145.0281153,Per Hour
+Tennessee,Home Care,Indiana,Long-term Care Insurance,87561,Silver,17.65446502,Per Hour
+Georgia,Physical Therapy,Georgia,Medicare,13167,Bronze,101.2064018,Per Hour
+West Virginia,Respiratory Therapy,Vermont,Point of Service (POS),63209,Silver,96.27993869,Per Hour
+Oklahoma,Occupational Therapy,North Carolina,Medicaid,80180,Bronze,128.5812729,Per Hour
+New Jersey,Pediatric Care,California,Short-term Health Insurance,31793,Gold,179.0603056,Per Hour
+Tennessee,Hospital Care,Ohio,Managed Care Plans,18329,Bronze,290,Per Day
+New Jersey,Telehealth,Delaware,Managed Care Plans,47676,Bronze,40.90778858,Per Visit
+South Carolina,Home Care,Kansas,Private Health Insurance,19265,Silver,17.67683243,Per Hour
+Colorado,Cardiac Care,Wisconsin,Medicare,78105,Bronze,124.7796319,Per Hour
+Maine,Hospice Care,New Hampshire,Managed Care Plans,75280,Gold,200,Per Day
+Florida,Wound Care,Pennsylvania,Medicare Supplement Insurance (Medigap),19996,Gold,43.56981142,Per Hour
+Tennessee,Skilled Nursing,Connecticut,Health Maintenance Organization (HMO),50573,Gold,28.63182919,Per Hour
+Arizona,Cardiac Care,Maryland,Medicare Supplement Insurance (Medigap),62677,Bronze,114.5784888,Per Hour
+Maryland,Home Care,North Carolina,Medicare,8819,Bronze,18.59052158,Per Hour
+Oklahoma,Hospice Care,Tennessee,Commercial,46714,Bronze,200,Per Day
+Georgia,Wound Care,Texas,Catastrophic Health Insurance,44460,Silver,44.22063004,Per Hour
+Hawaii,Hospice Care,California,Commercial,15213,Silver,200,Per Day
+Hawaii,Geriatric Care,Oregon,Employer-sponsored,91492,Bronze,126.7111366,Per Hour
+Ohio,Skilled Nursing,South Carolina,Medicare Supplement Insurance (Medigap),99693,Bronze,48.24101124,Per Hour
+Colorado,Geriatric Care,Hawaii,Exclusive Provider Organization (EPO),79381,Bronze,76.40229499,Per Hour
+Connecticut,Geriatric Care,Connecticut,Medicare Supplement Insurance (Medigap),69956,Silver,145.2649237,Per Hour
+Tennessee,Clinic Visit,Ohio,Private Health Insurance,79339,Gold,176,Per Visit
+Virginia,Mental Health Services,Indiana,Commercial,21582,Silver,202.0631219,Per Hour
+Kentucky,Rehabilitation Services,Hawaii,Commercial,49720,Bronze,66.43555881,Per Hour
+Washington,Speech Therapy,Hawaii,Long-term Care Insurance,40531,Silver,92.60018688,Per Hour
+California,Cardiac Care,Georgia,Short-term Health Insurance,16813,Bronze,133.946588,Per Hour
+Kansas,Wound Care,Maine,Indemnity Health Insurance,84459,Bronze,29.17056778,Per Hour
+Texas,Wound Care,Washington,Children's Health Insurance Program (CHIP),9168,Gold,45.9513853,Per Hour
+Pennsylvania,Hospital Care,Florida,Medicare Supplement Insurance (Medigap),27578,Bronze,290,Per Day
+Maryland,Palliative Care,Colorado,Tricare,63091,Silver,27.01121268,Per Hour
+Iowa,Chronic Disease Management,Florida,Exclusive Provider Organization (EPO),52548,Gold,31.50168968,Per Hour
+Indiana,Cardiac Care,Iowa,Veterans Health Administration,69184,Gold,146.4867451,Per Hour
+Georgia,Hospital Care,Oklahoma,Children's Health Insurance Program (CHIP),40912,Bronze,290,Per Day
+Texas,Geriatric Care,Wisconsin,Medicare Advantage,15298,Silver,119.3652416,Per Hour
+Missouri,Chronic Disease Management,Arizona,Catastrophic Health Insurance,99237,Gold,35.76717685,Per Hour
+Oregon,Speech Therapy,Ohio,Private Health Insurance,38938,Gold,95.21891979,Per Hour
+North Carolina,Respiratory Therapy,Delaware,Medicare Advantage,86807,Gold,63.45526219,Per Hour
+New Mexico,Skilled Nursing,Pennsylvania,Preferred Provider Organization (PPO),55979,Silver,42.43837517,Per Hour
+Massachusetts,Speech Therapy,Minnesota,Long-term Care Insurance,88038,Bronze,112.4484048,Per Hour
+South Carolina,Home Care,Kentucky,Veterans Health Administration,79270,Bronze,17.9962595,Per Hour
+New Hampshire,Respiratory Therapy,Nebraska,Short-term Health Insurance,84026,Gold,72.4314374,Per Hour
+Oklahoma,Clinic Visit,Washington,Point of Service (POS),9153,Bronze,176,Per Visit
+Missouri,Palliative Care,Wisconsin,Medicaid,8402,Silver,26.29907752,Per Hour
+Florida,Pediatric Care,West Virginia,Private Health Insurance,92178,Bronze,221.4490722,Per Hour
+Iowa,Speech Therapy,California,Medicare Supplement Insurance (Medigap),67316,Silver,143.6321587,Per Hour
+Missouri,Cardiac Care,Iowa,Medicare Supplement Insurance (Medigap),83685,Gold,145.1371864,Per Hour
+Florida,Geriatric Care,Florida,Veterans Health Administration,93973,Bronze,144.5396637,Per Hour
+Arizona,Pediatric Care,Oklahoma,Catastrophic Health Insurance,79520,Gold,273.8114758,Per Hour
+Maryland,Mental Health Services,Colorado,Medicare,30985,Bronze,153.4826846,Per Hour
+New Jersey,Telehealth,Connecticut,Tricare,79223,Gold,45.18200496,Per Visit
+New Mexico,Cardiac Care,North Carolina,Medicaid,67975,Gold,88.79254078,Per Hour
+Iowa,Cardiac Care,Florida,Health Maintenance Organization (HMO),92405,Silver,123.2874916,Per Hour
+Tennessee,Wound Care,Maryland,Short-term Health Insurance,61730,Gold,37.01722124,Per Hour
+New Hampshire,Nutritional Counseling,Pennsylvania,Point of Service (POS),8328,Silver,148.1194579,Per Hour
+Washington,Rehabilitation Services,South Carolina,Indemnity Health Insurance,44340,Bronze,88.21265235,Per Hour
+Pennsylvania,Rehabilitation Services,Washington,High-Deductible Health Plan (HDHP),89437,Gold,55.79655422,Per Hour
+Connecticut,Chronic Disease Management,New York,Managed Care Plans,70360,Silver,38.06926213,Per Hour
+Kansas,Palliative Care,Maine,Health Maintenance Organization (HMO),43989,Silver,25.78154027,Per Hour
+Missouri,Pediatric Care,Hawaii,Indemnity Health Insurance,92153,Gold,290.1561043,Per Hour
+Texas,Cardiac Care,Indiana,Veterans Health Administration,33102,Bronze,107.0793656,Per Hour
+Vermont,Hospice Care,Georgia,Medicare Supplement Insurance (Medigap),72458,Bronze,200,Per Day
+Minnesota,Pediatric Care,Nevada,Short-term Health Insurance,50996,Gold,214.3084348,Per Hour
+Delaware,Hospital Care,Maine,Long-term Care Insurance,832,Bronze,290,Per Day
+Georgia,Mental Health Services,Connecticut,Health Maintenance Organization (HMO),42941,Bronze,221.7850755,Per Hour
+Oklahoma,Speech Therapy,New Jersey,Managed Care Plans,62050,Silver,143.8203293,Per Hour
+Rhode Island,Clinic Visit,Washington,Point of Service (POS),44776,Bronze,176,Per Visit
+Iowa,Nutritional Counseling,Iowa,Medicare Supplement Insurance (Medigap),89964,Gold,132.1057379,Per Hour
+Iowa,Palliative Care,West Virginia,Managed Care Plans,50022,Gold,26.66098006,Per Hour
+Arizona,Occupational Therapy,Vermont,Indemnity Health Insurance,68077,Gold,144.6000964,Per Hour
+South Carolina,Skilled Nursing,Missouri,Medicare,27502,Gold,37.82282956,Per Hour
+Texas,Physical Therapy,North Carolina,Medicaid,9919,Silver,112.9192593,Per Hour
+South Carolina,Pediatric Care,Ohio,Long-term Care Insurance,5701,Silver,265.8288179,Per Hour
+New York,Pediatric Care,Wisconsin,Commercial,71177,Gold,196.480286,Per Hour
+Florida,Geriatric Care,Maine,Managed Care Plans,33649,Bronze,93.69823603,Per Hour
+New Mexico,Telehealth,Iowa,Health Maintenance Organization (HMO),42545,Bronze,42.76965864,Per Visit
+California,Respiratory Therapy,California,Medicare,13339,Gold,75.40585303,Per Hour
+Maine,Clinic Visit,Florida,Children's Health Insurance Program (CHIP),20791,Gold,176,Per Visit
+Oregon,Home Care,Nevada,Children's Health Insurance Program (CHIP),80897,Gold,19.61969774,Per Hour
+Kansas,Hospital Care,Iowa,Exclusive Provider Organization (EPO),99260,Bronze,290,Per Day
+New Jersey,Hospital Care,Pennsylvania,Veterans Health Administration,84662,Silver,290,Per Day
+Nebraska,Hospice Care,New Mexico,Commercial,80156,Bronze,200,Per Day
+Vermont,Hospice Care,North Carolina,Indemnity Health Insurance,24864,Silver,200,Per Day
+Kansas,Speech Therapy,Oregon,Point of Service (POS),21474,Gold,86.52546815,Per Hour
+California,Nutritional Counseling,Kansas,Catastrophic Health Insurance,16175,Bronze,141.2787829,Per Hour
+New York,Mental Health Services,South Carolina,Point of Service (POS),18407,Silver,230.4471219,Per Hour
+Nevada,Mental Health Services,Washington,Health Maintenance Organization (HMO),21854,Gold,219.960377,Per Hour
+Delaware,Pediatric Care,West Virginia,Medicare,69409,Bronze,274.4604653,Per Hour
+Vermont,Pediatric Care,Missouri,Children's Health Insurance Program (CHIP),56325,Silver,224.1375868,Per Hour
+New Mexico,Pediatric Care,Iowa,Long-term Care Insurance,92849,Silver,176.2447814,Per Hour
+Texas,Hospice Care,Georgia,Commercial,81139,Gold,200,Per Day
+Delaware,Occupational Therapy,Nebraska,Exclusive Provider Organization (EPO),4183,Bronze,126.0686534,Per Hour
+Kentucky,Speech Therapy,Nebraska,Health Maintenance Organization (HMO),51273,Bronze,124.9094138,Per Hour
+Texas,Chronic Disease Management,Vermont,Point of Service (POS),24522,Silver,40.83806068,Per Hour
+Missouri,Diabetes Care,Connecticut,Veterans Health Administration,98142,Bronze,50,Per Visit
+Rhode Island,Geriatric Care,Florida,Preferred Provider Organization (PPO),32380,Gold,145.5261997,Per Hour
+West Virginia,Home Care,Pennsylvania,Medicare Supplement Insurance (Medigap),15212,Gold,18.52817157,Per Hour
+Texas,Hospital Care,South Carolina,Tricare,49792,Bronze,290,Per Day
+Massachusetts,Hospital Care,California,Short-term Health Insurance,13525,Silver,290,Per Day
+Arizona,Hospice Care,Tennessee,Point of Service (POS),38498,Silver,200,Per Day
+Nevada,Cardiac Care,North Carolina,Exclusive Provider Organization (EPO),92829,Gold,106.484011,Per Hour
+Kentucky,Physical Therapy,New Mexico,Preferred Provider Organization (PPO),84639,Bronze,135.8729351,Per Hour
+Kansas,Respiratory Therapy,Delaware,Medicare Supplement Insurance (Medigap),25518,Gold,51.96234014,Per Hour
+Delaware,Speech Therapy,Georgia,Short-term Health Insurance,49592,Gold,97.61290546,Per Hour
+California,Diabetes Care,Iowa,Indemnity Health Insurance,61432,Bronze,50,Per Visit
+New Jersey,Hospice Care,West Virginia,Indemnity Health Insurance,71781,Bronze,200,Per Day
+New York,Diabetes Care,Ohio,Long-term Care Insurance,30597,Silver,50,Per Visit
+Delaware,Nutritional Counseling,Ohio,Employer-sponsored,12764,Gold,124.354802,Per Hour
+Hawaii,Wound Care,Washington,Health Maintenance Organization (HMO),36925,Silver,35.02089689,Per Hour
+Tennessee,Mental Health Services,New Mexico,Private Health Insurance,81148,Gold,272.9406724,Per Hour
+Maryland,Speech Therapy,Rhode Island,Health Maintenance Organization (HMO),5915,Silver,81.05258203,Per Hour
+Hawaii,Wound Care,New Mexico,Medicare Advantage,7052,Silver,42.27043133,Per Hour
+Washington,Cardiac Care,Hawaii,Point of Service (POS),48077,Gold,128.4074813,Per Hour
+Georgia,Hospital Care,Oklahoma,Employer-sponsored,8377,Gold,290,Per Day
+Washington,Cardiac Care,South Carolina,Tricare,71417,Gold,97.10445707,Per Hour
+Virginia,Occupational Therapy,Vermont,Preferred Provider Organization (PPO),67668,Gold,108.7723861,Per Hour
+Oregon,Diabetes Care,Texas,Preferred Provider Organization (PPO),30788,Bronze,50,Per Visit
+Oregon,Hospice Care,California,Employer-sponsored,7138,Silver,200,Per Day
+Virginia,Cardiac Care,Washington,Children's Health Insurance Program (CHIP),18795,Silver,86.97654572,Per Hour
+Iowa,Mental Health Services,Oregon,Medicaid,61992,Silver,205.7375129,Per Hour
+Maryland,Palliative Care,Minnesota,Catastrophic Health Insurance,8350,Bronze,26.92438097,Per Hour
+Vermont,Telehealth,North Carolina,Tricare,15761,Bronze,41.46485149,Per Visit
+Pennsylvania,Skilled Nursing,Texas,Health Maintenance Organization (HMO),60738,Bronze,28.45935341,Per Hour
+Ohio,Speech Therapy,New Mexico,Veterans Health Administration,21050,Gold,84.69268222,Per Hour
+Pennsylvania,Hospital Care,Florida,Indemnity Health Insurance,18988,Silver,290,Per Day
+Oregon,Nutritional Counseling,Oregon,Veterans Health Administration,35411,Silver,147.0277591,Per Hour
+Vermont,Hospital Care,Nebraska,Commercial,10967,Bronze,290,Per Day
+Massachusetts,Hospice Care,Wisconsin,Medicare,35405,Gold,200,Per Day
+Maryland,Hospice Care,New Jersey,Tricare,63512,Silver,200,Per Day
+Delaware,Nutritional Counseling,Iowa,Long-term Care Insurance,15340,Silver,119.8064256,Per Hour
+Wisconsin,Hospice Care,Connecticut,Private Health Insurance,71266,Gold,200,Per Day
+Colorado,Speech Therapy,New Jersey,Health Maintenance Organization (HMO),54450,Bronze,82.3673522,Per Hour
+Iowa,Pediatric Care,West Virginia,Preferred Provider Organization (PPO),77975,Silver,263.8238413,Per Hour
+Missouri,Hospice Care,Indiana,Exclusive Provider Organization (EPO),9842,Bronze,200,Per Day
+Nebraska,Nutritional Counseling,Vermont,Health Maintenance Organization (HMO),46778,Silver,132.0945402,Per Hour
+Kentucky,Wound Care,Missouri,Tricare,28807,Bronze,43.8410503,Per Hour
+Nebraska,Speech Therapy,Rhode Island,Medicare Supplement Insurance (Medigap),56838,Silver,115.570228,Per Hour
+Nebraska,Clinic Visit,Nevada,Medicaid,30169,Silver,176,Per Visit
+Nebraska,Speech Therapy,Delaware,Medicare,63727,Bronze,135.6744296,Per Hour
+Arizona,Hospice Care,Missouri,Tricare,95042,Gold,200,Per Day
+Missouri,Home Care,Wisconsin,Long-term Care Insurance,29620,Gold,23.84144444,Per Hour
+South Carolina,Physical Therapy,Maryland,Medicare Supplement Insurance (Medigap),41000,Silver,144.6509073,Per Hour
+Pennsylvania,Clinic Visit,Minnesota,Indemnity Health Insurance,95262,Bronze,176,Per Visit
+Hawaii,Occupational Therapy,Ohio,Medicaid,24154,Gold,131.2772493,Per Hour
+Texas,Wound Care,Connecticut,Health Maintenance Organization (HMO),50537,Gold,43.98509581,Per Hour
+Washington,Respiratory Therapy,Texas,Medicare Advantage,71633,Gold,86.15524855,Per Hour
+Nevada,Geriatric Care,Colorado,High-Deductible Health Plan (HDHP),26235,Bronze,76.27702144,Per Hour
+South Carolina,Wound Care,New Jersey,Medicaid,89147,Bronze,45.8494057,Per Hour
+New Jersey,Hospital Care,Oklahoma,Private Health Insurance,57869,Silver,290,Per Day
+Pennsylvania,Speech Therapy,Oregon,Indemnity Health Insurance,91510,Gold,146.9849225,Per Hour
+Connecticut,Physical Therapy,New Jersey,Medicare Advantage,59388,Gold,103.3860431,Per Hour
